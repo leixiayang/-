@@ -1,12 +1,0 @@
-180105 15:32:10 DEBUG | connected devices:54540ec4	device
---[base.py:94]
-180105 15:32:10 DEBUG | split connect devices id: ['54540ec4\tdevice\r', '']--[base.py:101]
-180105 15:32:10 DEBUG | get device: 54540ec4	device--[base.py:105]
-180105 15:32:10 DEBUG | got devices id: ['54540ec4']--[base.py:108]
-180105 15:32:10 DEBUG | 'OPPO A57
-'--[base.py:117]
-180105 15:32:10 DEBUG | OPPO A57--[base.py:124]
-180105 15:32:10 DEBUG | get the device info: {'OPPOA57': '54540ec4'}--[base.py:130]
-180105 15:32:10 DEBUG | This system is Windows--[monkey_stop.py:71]
-180105 15:32:10 INFO | kill the monkey process: 8783 in OPPOA57--[monkey_stop.py:61]
-180105 15:32:10 INFO | No monkey running in OPPOA57--[monkey_stop.py:56]

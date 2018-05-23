@@ -1,143 +1,0 @@
-180103 17:27:14 INFO | Use default config for monkey test--[monkey_server.py:22]
-180103 17:27:14 INFO | start server--[monkey_server.py:42]
-180103 17:27:21 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:27:21 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:27:21 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:27:21 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:27:21 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:27:21 DEBUG | MX4 Pro--[base.py:124]
-180103 17:27:21 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:27:21 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:27:21 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
-180103 17:27:21 DEBUG | new device dict is: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:35]
-180103 17:27:21 INFO | changed device: {'MX4Pro': '760ABL8ABSGE'}--[monkey.py:296]
-180103 17:27:26 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:27:26 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:27:26 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:27:26 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:27:26 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:27:26 DEBUG | MX4 Pro--[base.py:124]
-180103 17:27:26 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:27:26 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:27:26 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:27:27 DEBUG | This system is Windows--[monkey_stop.py:68]
-180103 17:27:27 INFO | No monkey running in MX4Pro--[monkey_stop.py:53]
-180103 17:27:29 INFO | start monkey with MX4Pro--[monkey.py:205]
-180103 17:27:29 INFO | Monkey cmd: E:\android-sdk-windows\platform-tools\adb -s 760ABL8ABSGE shell monkey -s 437 -p com.hhly.community.test -v  --throttle 300 --pct-trackball 0 --pct-syskeys 5 --pct-nav 0 --pct-anyevent 0 400   > E:\chenhh1334\monkey_merge\performance\monkey\monkeylog\2018-01-03\MX4Pro_01-03~17-27-29.txt--[monkey.py:216]
-180103 17:27:29 INFO | monkey end with MX4Pro--[monkey.py:219]
-180103 17:27:31 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:27:31 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:27:31 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:27:31 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:27:31 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:27:31 DEBUG | MX4 Pro--[base.py:124]
-180103 17:27:31 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:27:31 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:27:31 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:27:36 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:27:36 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:27:36 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:27:36 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:27:36 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:27:36 DEBUG | MX4 Pro--[base.py:124]
-180103 17:27:36 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:27:36 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:27:36 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:27:42 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:27:42 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:27:42 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:27:42 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:27:42 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:27:42 DEBUG | MX4 Pro--[base.py:124]
-180103 17:27:42 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:27:42 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:27:42 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:27:47 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:27:47 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:27:47 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:27:47 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:27:47 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:27:47 DEBUG | MX4 Pro--[base.py:124]
-180103 17:27:47 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:27:47 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:27:47 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:27:52 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:27:52 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:27:52 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:27:52 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:27:52 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:27:52 DEBUG | MX4 Pro--[base.py:124]
-180103 17:27:52 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:27:52 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:27:52 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:27:57 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:27:57 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:27:57 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:27:57 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:27:57 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:27:57 DEBUG | MX4 Pro--[base.py:124]
-180103 17:27:57 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:27:57 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:27:57 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:28:02 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:28:02 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:28:02 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:28:02 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:28:02 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:28:02 DEBUG | MX4 Pro--[base.py:124]
-180103 17:28:02 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:28:02 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:28:02 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:28:07 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:28:07 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:28:07 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:28:07 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:28:07 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:28:07 DEBUG | MX4 Pro--[base.py:124]
-180103 17:28:07 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:28:07 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:28:07 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:28:12 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:28:12 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:28:12 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:28:12 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:28:12 DEBUG | 'MX4 Pro
-'--[base.py:117]
-180103 17:28:12 DEBUG | MX4 Pro--[base.py:124]
-180103 17:28:12 DEBUG | get the device info: {'MX4Pro': '760ABL8ABSGE'}--[base.py:130]
-180103 17:28:12 DEBUG | current device dict: {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:27]
-180103 17:28:12 DEBUG | Config.device_dict is {'MX4Pro': '760ABL8ABSGE'}--[device_monitor.py:28]
-180103 17:28:15 INFO | capture screen--[monkey.py:226]
-180103 17:28:17 INFO | [ 49%] /sdcard/MX4Pro_01-03~17-27-29.png
-[ 98%] /sdcard/MX4Pro_01-03~17-27-29.png
-[100%] /sdcard/MX4Pro_01-03~17-27-29.png
-/sdcard/MX4Pro_01-03~17-27-29.png: 1 file pulled. 5.9 MB/s (133453 bytes in 0.022s)--[monkey.py:233]
-180103 17:28:17 INFO | deal_with_log--[monkey.py:242]
-180103 17:28:17 INFO | ∑¢ÀÕ ß∞‹--[mail.py:51]
-180103 17:28:17 DEBUG | connected devices:760ABL8ABSGE	device
---[base.py:94]
-180103 17:28:17 DEBUG | split connect devices id: ['760ABL8ABSGE\tdevice\r', '']--[base.py:101]
-180103 17:28:17 DEBUG | get device: 760ABL8ABSGE	device--[base.py:105]
-180103 17:28:17 DEBUG | got devices id: ['760ABL8ABSGE']--[base.py:108]
-180103 17:28:17 ERROR | get device model error--[base.py:119]

@@ -1,160 +1,0 @@
-180129 18:17:51 INFO | Use default config for monkey test--[monkey_server.py:22]
-180129 18:17:52 INFO | start server--[monkey_server.py:42]
-180129 18:17:59 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:17:59 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:17:59 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:17:59 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:17:59 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:17:59 DEBUG | NX575J--[base.py:124]
-180129 18:17:59 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:17:59 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:17:59 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
-180129 18:17:59 DEBUG | new device dict is: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:35]
-180129 18:17:59 INFO | changed device: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[monkey.py:331]
-180129 18:18:04 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:04 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:04 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:04 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:04 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:04 DEBUG | NX575J--[base.py:124]
-180129 18:18:04 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:04 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:04 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:05 DEBUG | This system is Windows--[monkey_stop.py:70]
-180129 18:18:05 INFO | No monkey running in NX575J--[monkey_stop.py:55]
-180129 18:18:07 INFO | start monkey with NX575J--[monkey.py:239]
-180129 18:18:07 INFO | Monkey cmd: adb -s QSUWGQMVGUKJQKI7 shell monkey -s 311 -p com.hhly.community.test -v -v -v  --throttle 300 --pct-trackball 0 --pct-syskeys 5 --pct-nav 0 --pct-anyevent 0 400   > E:\chenhh1334\monkey_merge\performance\monkey\monkeylog\2018-01-29\NX575J_01-29~18-18-07.txt--[monkey.py:250]
-180129 18:18:07 INFO | monkey end with NX575J--[monkey.py:253]
-180129 18:18:09 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:09 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:09 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:09 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:09 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:09 DEBUG | NX575J--[base.py:124]
-180129 18:18:09 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:09 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:09 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:14 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:14 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:14 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:14 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:15 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:15 DEBUG | NX575J--[base.py:124]
-180129 18:18:15 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:15 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:15 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:20 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:20 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:20 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:20 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:20 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:20 DEBUG | NX575J--[base.py:124]
-180129 18:18:20 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:20 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:20 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:25 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:25 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:25 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:25 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:25 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:25 DEBUG | NX575J--[base.py:124]
-180129 18:18:25 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:25 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:25 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:30 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:30 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:30 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:30 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:30 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:30 DEBUG | NX575J--[base.py:124]
-180129 18:18:30 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:30 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:30 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:35 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:35 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:35 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:35 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:35 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:35 DEBUG | NX575J--[base.py:124]
-180129 18:18:35 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:35 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:35 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:40 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:40 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:40 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:40 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:40 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:40 DEBUG | NX575J--[base.py:124]
-180129 18:18:40 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:40 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:40 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:45 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:45 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:45 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:45 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:45 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:45 DEBUG | NX575J--[base.py:124]
-180129 18:18:45 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:45 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:45 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:50 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:50 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:50 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:50 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:51 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:51 DEBUG | NX575J--[base.py:124]
-180129 18:18:51 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:51 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:51 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:56 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:18:56 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:18:56 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:18:56 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:18:56 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:18:56 DEBUG | NX575J--[base.py:124]
-180129 18:18:56 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:18:56 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:18:56 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:18:58 INFO | capture screen--[monkey.py:260]
-180129 18:19:00 INFO | [ 77%] /sdcard/NX575J_01-29~18-18-07.png
-[100%] /sdcard/NX575J_01-29~18-18-07.png
-/sdcard/NX575J_01-29~18-18-07.png: 1 file pulled. 2.4 MB/s (84196 bytes in 0.033s)--[monkey.py:267]
-180129 18:19:01 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
---[base.py:94]
-180129 18:19:01 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
-180129 18:19:01 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
-180129 18:19:01 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
-180129 18:19:01 DEBUG | 'NX575J
-'--[base.py:117]
-180129 18:19:01 DEBUG | NX575J--[base.py:124]
-180129 18:19:01 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
-180129 18:19:01 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
-180129 18:19:01 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:19:06 INFO | All device lost--[base.py:97]
-180129 18:19:06 DEBUG | current device dict: {}--[device_monitor.py:27]
-180129 18:19:06 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
-180129 18:19:06 INFO | device lost--[device_monitor.py:37]
