@@ -1,0 +1,5 @@
+:Monkey: seed=654 count=400
+:AllowPackage: com.hhly.community.test
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+** No activities found to run, monkey aborted.

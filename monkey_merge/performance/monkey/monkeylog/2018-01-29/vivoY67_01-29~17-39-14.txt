@@ -1,0 +1,629 @@
+:Monkey: seed=130 count=400
+:AllowPackage: com.hhly.community.test
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Selecting main activities from category android.intent.category.LAUNCHER
+//   - NOT USING main activity com.android.gallery3d.vivo.GalleryTabActivity (from package com.vivo.gallery)
+//   - NOT USING main activity com.android.contacts.DialtactsContactsEntryActivity (from package com.android.contacts)
+//   - NOT USING main activity com.android.dialer.TwelveKeyDialer (from package com.android.dialer)
+//   - NOT USING main activity com.android.email.activity.Welcome (from package com.android.email)
+//   - NOT USING main activity com.android.mms.ui.ConversationList (from package com.android.mms)
+//   - NOT USING main activity com.android.settings.Settings (from package com.android.settings)
+//   - NOT USING main activity com.android.bbksoundrecorder.SoundRecorder (from package com.android.bbksoundrecorder)
+//   - NOT USING main activity com.android.VideoPlayer.VideoPlayer (from package com.android.VideoPlayer)
+//   - NOT USING main activity com.bbk.calendar.MainActivity (from package com.bbk.calendar)
+//   - NOT USING main activity com.android.camera.CameraActivity (from package com.android.camera)
+//   - NOT USING main activity com.bbk.theme.Theme (from package com.bbk.theme)
+//   - NOT USING main activity com.android.bbkmusic.WidgetToTrackActivity (from package com.android.bbkmusic)
+//   - NOT USING main activity com.baidu.baidumaps.WelcomeScreen (from package com.baidu.BaiduMap)
+//   - NOT USING main activity com.android.bbkcalculator.Calculator (from package com.android.bbkcalculator)
+//   - NOT USING main activity com.vivo.FMRadio.FMRadioActivity (from package com.vivo.FMRadio)
+//   - NOT USING main activity com.android.filemanager.FileManagerActivity (from package com.android.filemanager)
+//   - NOT USING main activity com.android.notes.Notes (from package com.android.notes)
+//   - NOT USING main activity com.android.BBKClock.Timer (from package com.android.BBKClock)
+//   - NOT USING main activity com.vivo.weather.WeatherMain (from package com.vivo.weather)
+//   - NOT USING main activity com.vivo.compass.CalibrationActivity (from package com.vivo.compass)
+//   - NOT USING main activity com.vivo.Tips.MainActivity (from package com.vivo.Tips)
+//   - NOT USING main activity com.bbk.cloud.activities.BBKCloudHomeScreen (from package com.bbk.cloud)
+//   - NOT USING main activity com.vivo.game.ui.LogoActivity (from package com.vivo.game)
+//   - NOT USING main activity com.vivo.space.ui.LogoActivity (from package com.vivo.space)
+//   - NOT USING main activity com.vivo.browser.BrowserActivity (from package com.vivo.browser)
+//   - NOT USING main activity com.bbk.appstore.ui.AppStore (from package com.bbk.appstore)
+//   - NOT USING main activity com.qq.reader.activity.SplashActivity (from package com.vivo.qreader)
+//   - NOT USING main activity com.iqoo.secure.MainGuideActivity (from package com.iqoo.secure)
+//   - NOT USING main activity sogou.mobile.explorer.NoDisplayActivity (from package sogou.mobile.explorer)
+//   - NOT USING main activity com.wuba.activity.launch.LaunchActivity (from package com.wuba)
+//   - NOT USING main activity com.android.bbk.lockscreen3.LockScreenActivity (from package com.android.bbk.lockscreen3)
+//   - NOT USING main activity com.tencent.qqlive.ona.activity.WelcomeActivity (from package com.tencent.qqlive)
+//   - NOT USING main activity com.qiyi.video.WelcomeActivity (from package com.qiyi.video)
+//   - NOT USING main activity com.bbk.iqoo.feedback.activities.UserFeedBackActivity (from package com.bbk.iqoo.feedback)
+//   - NOT USING main activity com.tencent.mm.ui.LauncherUI (from package com.tencent.mm)
+//   + Using main activity com.hhly.community.ui.welcome.WelcomeActivity (from package com.hhly.community.test)
+//   - NOT USING main activity com.taobao.tao.welcome.Welcome (from package com.taobao.taobao)
+//   - NOT USING main activity com.sankuai.meituan.activity.Welcome (from package com.sankuai.meituan)
+//   - NOT USING main activity com.hhly.community.ui.welcome.WelcomeActivity (from package com.hhly.community)
+//   - NOT USING main activity com.ss.android.article.news.activity.SplashBadgeActivity (from package com.ss.android.article.news)
+//   - NOT USING main activity com.vivo.easyshare.activity.SplashScreenActivity (from package com.vivo.easyshare)
+//   - NOT USING main activity com.sinaapp.qwwpoo.fastscanner.HistoryActivity (from package com.sinaapp.qwwpoo.fastscanner)
+//   - NOT USING main activity com.jm.android.jumei.home.activity.StartActivity (from package com.jm.android.jumei)
+//   - NOT USING main activity com.tencent.mobileqq.activity.SplashActivity (from package com.tencent.mobileqq)
+//   - NOT USING main activity com.eg.android.AlipayGphone.AlipayLogin (from package com.eg.android.AlipayGphone)
+//   - NOT USING main activity com.UCMobile.main.UCMobile (from package com.UCMobile)
+//   - NOT USING main activity com.mqunar.splash.SplashActivity (from package com.Qunar)
+// Selecting main activities from category android.intent.category.MONKEY
+//   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+//   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+//   - NOT USING main activity com.bbk.launcher2.Launcher (from package com.bbk.launcher2)
+//   - NOT USING main activity com.bbk.scene.launcher.theme.SceneLauncherThemeMainActivity (from package com.bbk.scene.launcher.theme)
+//   - NOT USING main activity com.iqoo.engineermode.EngineerMode (from package com.iqoo.engineermode)
+//   - NOT USING main activity com.android.systemui.vivo.common.monkeytest.MonkeyTestActivity (from package com.android.systemui)
+// Seeded: 130
+// Event percentages:
+//   0: 31.666668%
+//   1: 21.11111%
+//   2: 4.2222223%
+//   3: -0.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: -0.0%
+//   7: 31.666668%
+//   8: 5.0%
+//   9: 4.2222223%
+//   10: 2.1111112%
+//   11: -0.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.main.MainActivity } in package com.hhly.community.test
+    // activityResuming(com.hhly.community.test)
+:Sending Touch (ACTION_DOWN): 0:(501.0,720.0)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(518.434,727.4986)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(523.00055,729.0586)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(532.9584,736.3415)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(545.70276,736.6705)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(556.32654,740.8994)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(569.27704,744.282)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(572.45337,750.483)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(581.1392,759.0413)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(588.3537,760.80414)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(602.54095,765.5954)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(246.0,879.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(256.39917,881.80896)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(621.0,815.0)
+:Sending Touch (ACTION_MOVE): 0:(621.68,802.4851)
+:Sending Touch (ACTION_MOVE): 0:(621.91034,791.3911)
+:Sending Touch (ACTION_MOVE): 0:(624.1777,790.92676)
+:Sending Touch (ACTION_MOVE): 0:(626.9907,786.5847)
+:Sending Touch (ACTION_MOVE): 0:(629.421,781.724)
+:Sending Touch (ACTION_MOVE): 0:(629.55634,770.8894)
+:Sending Touch (ACTION_MOVE): 0:(632.965,763.81744)
+:Sending Touch (ACTION_MOVE): 0:(634.5447,750.8658)
+:Sending Touch (ACTION_UP): 0:(635.56085,742.52374)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(207.0,330.0)
+:Sending Touch (ACTION_UP): 0:(216.2553,330.0058)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+:Sending Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(208.0,271.0)
+:Sending Touch (ACTION_UP): 0:(206.81215,270.52768)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(136.0,30.0)
+:Sending Touch (ACTION_UP): 0:(137.17555,29.13656)
+Sleeping for 300 milliseconds
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(401.0,832.0)
+:Sending Touch (ACTION_UP): 0:(403.7262,840.1712)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.product.ProductDetailActivity } in package com.hhly.community.test
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(458.0,399.0)
+:Sending Touch (ACTION_MOVE): 0:(474.53696,395.85428)
+:Sending Touch (ACTION_UP): 0:(477.32184,393.43652)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(344.0,481.0)
+:Sending Touch (ACTION_UP): 0:(335.24103,473.47922)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(485.0,464.0)
+:Sending Touch (ACTION_MOVE): 0:(482.9241,464.33264)
+:Sending Touch (ACTION_MOVE): 0:(474.6241,467.18542)
+:Sending Touch (ACTION_MOVE): 0:(462.29944,467.7091)
+:Sending Touch (ACTION_MOVE): 0:(449.99808,472.2557)
+:Sending Touch (ACTION_MOVE): 0:(441.16266,475.05972)
+:Sending Touch (ACTION_MOVE): 0:(432.17685,476.80463)
+:Sending Touch (ACTION_MOVE): 0:(418.4618,479.87915)
+:Sending Touch (ACTION_UP): 0:(412.77127,482.02927)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(519.0,115.0)
+:Sending Touch (ACTION_UP): 0:(513.5858,98.880455)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(648.0,677.0)
+:Sending Touch (ACTION_MOVE): 0:(648.96875,677.04016)
+:Sending Touch (ACTION_UP): 0:(652.51245,677.4904)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(45.0,140.0)
+:Sending Touch (ACTION_MOVE): 0:(42.724125,138.99712)
+:Sending Touch (ACTION_MOVE): 0:(41.853237,137.98357)
+:Sending Touch (ACTION_MOVE): 0:(39.39076,135.34724)
+:Sending Touch (ACTION_MOVE): 0:(36.680367,133.64513)
+:Sending Touch (ACTION_MOVE): 0:(35.19014,132.06364)
+:Sending Touch (ACTION_MOVE): 0:(33.020992,130.54549)
+:Sending Touch (ACTION_MOVE): 0:(30.176525,128.46796)
+:Sending Touch (ACTION_UP): 0:(27.45903,126.85305)
+Sleeping for 300 milliseconds
+    // activityResuming(com.hhly.community.test)
+:Sending Touch (ACTION_DOWN): 0:(526.0,861.0)
+:Sending Touch (ACTION_UP): 0:(526.32367,860.3493)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.product.ProductDetailActivity } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(71.0,309.0)
+:Sending Touch (ACTION_UP): 0:(78.62973,311.5271)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(424.0,836.0)
+:Sending Touch (ACTION_UP): 0:(432.382,827.80005)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(103.0,1036.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(98.28337,1043.9839) 1:(274.0,580.0)
+:Sending Touch (ACTION_MOVE): 0:(92.99728,1050.1849) 1:(281.92264,560.0466)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(86.85859,1058.6128) 1:(287.02054,559.84784)
+:Sending Touch (ACTION_UP): 0:(84.17666,1059.692)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(330.0,663.0)
+:Sending Touch (ACTION_MOVE): 0:(337.57327,673.6635)
+:Sending Touch (ACTION_MOVE): 0:(356.10565,678.4002)
+:Sending Touch (ACTION_MOVE): 0:(363.87003,692.90295)
+:Sending Touch (ACTION_UP): 0:(365.82986,695.3367)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(624.0,737.0)
+:Sending Touch (ACTION_UP): 0:(625.609,723.35583)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+    //[calendar_time:2018-01-29 17:39:05.998  system_uptime:2681973]
+    // Sending event #100
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(356.0,125.0)
+:Sending Touch (ACTION_MOVE): 0:(360.8672,139.96417)
+:Sending Touch (ACTION_MOVE): 0:(363.14923,143.1734)
+:Sending Touch (ACTION_MOVE): 0:(369.94366,165.22076)
+:Sending Touch (ACTION_MOVE): 0:(373.98337,167.32133)
+:Sending Touch (ACTION_MOVE): 0:(379.9809,173.73819)
+:Sending Touch (ACTION_MOVE): 0:(385.11557,198.02725)
+:Sending Touch (ACTION_MOVE): 0:(393.30426,219.39514)
+:Sending Touch (ACTION_MOVE): 0:(396.1118,223.08942)
+:Sending Touch (ACTION_UP): 0:(398.81613,233.23315)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(704.0,863.0)
+:Sending Touch (ACTION_UP): 0:(710.6161,858.0282)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(210.0,534.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(218.03958,537.6761) 1:(101.0,347.0)
+:Sending Touch (ACTION_MOVE): 0:(226.63313,538.7386) 1:(106.08712,339.93515)
+:Sending Touch (ACTION_MOVE): 0:(232.3915,545.50885) 1:(113.30972,334.45334)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(245.00821,552.83325) 1:(116.59178,333.95917)
+:Sending Touch (ACTION_UP): 0:(246.02144,555.90326)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(203.0,58.0)
+:Sending Touch (ACTION_UP): 0:(201.87582,54.868866)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(48.0,681.0)
+:Sending Touch (ACTION_UP): 0:(31.68834,666.3656)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(317.0,446.0)
+:Sending Touch (ACTION_UP): 0:(299.61966,445.87418)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(288.0,328.0)
+:Sending Touch (ACTION_MOVE): 0:(281.87012,334.55032)
+:Sending Touch (ACTION_MOVE): 0:(277.9444,343.1279)
+:Sending Touch (ACTION_MOVE): 0:(276.47205,345.8819)
+:Sending Touch (ACTION_MOVE): 0:(270.0976,346.45248)
+:Sending Touch (ACTION_MOVE): 0:(264.18814,352.06042)
+:Sending Touch (ACTION_UP): 0:(263.32373,356.6095)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(520.0,1046.0)
+:Sending Touch (ACTION_UP): 0:(527.8574,1060.2332)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(112.0,936.0)
+:Sending Touch (ACTION_UP): 0:(111.696785,950.93207)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(57.0,1028.0)
+:Sending Touch (ACTION_MOVE): 0:(56.672466,1030.2589)
+:Sending Touch (ACTION_MOVE): 0:(51.32883,1032.6478)
+:Sending Touch (ACTION_MOVE): 0:(47.857647,1033.4564)
+:Sending Touch (ACTION_MOVE): 0:(39.3382,1037.3595)
+:Sending Touch (ACTION_MOVE): 0:(39.068756,1039.4165)
+:Sending Touch (ACTION_MOVE): 0:(31.755821,1044.0316)
+:Sending Touch (ACTION_MOVE): 0:(23.508858,1046.8643)
+:Sending Touch (ACTION_UP): 0:(16.503391,1050.5964)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(579.0,1199.0)
+:Sending Touch (ACTION_UP): 0:(584.78424,1181.1543)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.login.LoginActivity } in package com.hhly.community.test
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(425.0,466.0)
+:Sending Touch (ACTION_UP): 0:(437.3622,460.27625)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(629.0,1136.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(622.1837,1148.7162) 1:(435.0,506.0)
+:Sending Touch (ACTION_MOVE): 0:(614.3574,1152.426) 1:(431.43698,516.71497)
+:Sending Touch (ACTION_MOVE): 0:(608.63025,1167.9238) 1:(426.5177,521.5794)
+:Sending Touch (ACTION_MOVE): 0:(599.91833,1182.0376) 1:(425.7511,526.91614)
+:Sending Touch (ACTION_MOVE): 0:(594.57294,1184.7468) 1:(412.23853,527.6874)
+:Sending Touch (ACTION_MOVE): 0:(594.2079,1191.29) 1:(397.56293,531.24963)
+:Sending Touch (ACTION_MOVE): 0:(591.2699,1196.5522) 1:(385.17502,539.8025)
+:Sending Touch (ACTION_MOVE): 0:(584.86536,1197.35) 1:(378.01154,544.3849)
+:Sending Touch (ACTION_MOVE): 0:(579.8994,1205.1392) 1:(377.1894,549.4365)
+:Sending Touch (ACTION_MOVE): 0:(575.33295,1211.6396) 1:(361.91043,550.2048)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(574.7753,1224.5446) 1:(351.4357,550.92773)
+:Sending Touch (ACTION_UP): 0:(574.72797,1226.7555)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(148.0,312.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(146.88187,314.32843) 1:(105.0,1141.0)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(145.01079,316.9248) 1:(102.14932,1128.1306)
+:Sending Touch (ACTION_UP): 0:(143.19565,322.906)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(592.0,97.0)
+:Sending Touch (ACTION_UP): 0:(591.69244,105.24797)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 3    // KEYCODE_HOME
+:Sending Key (ACTION_UP): 3    // KEYCODE_HOME
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.bbk.launcher2/.Launcher } in package com.bbk.launcher2
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(5.0,326.0)
+    //[calendar_time:2018-01-29 17:39:16.164  system_uptime:2692139]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(0.0,317.44345)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(195.0,885.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(173.08139,877.11566) 1:(249.0,324.0)
+:Sending Touch (ACTION_MOVE): 0:(150.00484,876.8472) 1:(233.65515,324.22913)
+:Sending Touch (ACTION_MOVE): 0:(126.306206,869.4559) 1:(214.33008,325.3375)
+:Sending Touch (ACTION_MOVE): 0:(117.08801,866.2615) 1:(212.51903,325.51788)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(112.03587,863.1036) 1:(196.22078,325.56592)
+:Sending Touch (ACTION_UP): 0:(92.68608,855.6523)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(383.0,1087.0)
+:Sending Touch (ACTION_UP): 0:(373.38803,1090.3529)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 4    // KEYCODE_BACK
+:Sending Key (ACTION_UP): 4    // KEYCODE_BACK
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(415.0,25.0)
+:Sending Touch (ACTION_UP): 0:(417.5909,31.017084)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(92.0,196.0)
+:Sending Touch (ACTION_MOVE): 0:(78.06918,189.76468)
+:Sending Touch (ACTION_MOVE): 0:(64.22996,175.6885)
+:Sending Touch (ACTION_MOVE): 0:(59.17218,170.70726)
+:Sending Touch (ACTION_MOVE): 0:(55.96735,159.88919)
+:Sending Touch (ACTION_MOVE): 0:(45.27099,157.39659)
+:Sending Touch (ACTION_UP): 0:(36.74946,145.64037)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(189.0,696.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(170.5314,694.55707) 1:(369.0,612.0)
+:Sending Touch (ACTION_MOVE): 0:(147.47133,693.47516) 1:(360.31415,622.3681)
+:Sending Touch (ACTION_MOVE): 0:(125.361275,689.99915) 1:(352.35486,623.03845)
+:Sending Touch (ACTION_MOVE): 0:(113.07822,689.8784) 1:(340.98517,632.0722)
+:Sending Touch (ACTION_MOVE): 0:(93.35644,689.1001) 1:(338.94458,634.8107)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(83.06271,687.74457) 1:(338.0973,649.5026)
+:Sending Touch (ACTION_UP): 0:(65.56154,684.76917)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(560.0,173.0)
+:Sending Touch (ACTION_UP): 0:(569.43506,171.84897)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(261.0,119.0)
+:Sending Touch (ACTION_UP): 0:(254.97356,124.795586)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(357.0,200.0)
+:Sending Touch (ACTION_UP): 0:(346.90894,201.4639)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(659.0,260.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(656.61584,275.3222) 1:(502.0,1259.0)
+:Sending Touch (ACTION_MOVE): 0:(655.21826,281.01276) 1:(492.5902,1260.2533)
+:Sending Touch (ACTION_MOVE): 0:(652.0961,298.3844) 1:(483.61316,1262.8331)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(648.8866,303.92612) 1:(483.45978,1263.2952)
+:Sending Touch (ACTION_UP): 0:(647.1252,321.32593)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(301.0,760.0)
+:Sending Touch (ACTION_UP): 0:(306.3882,752.66187)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(35.0,1182.0)
+:Sending Touch (ACTION_UP): 0:(40.24282,1196.254)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(418.0,267.0)
+:Sending Touch (ACTION_MOVE): 0:(414.71356,270.17966)
+:Sending Touch (ACTION_UP): 0:(411.25082,270.9172)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(719.0,23.0)
+:Sending Touch (ACTION_MOVE): 0:(720.0,22.051315)
+:Sending Touch (ACTION_MOVE): 0:(720.0,21.746834)
+:Sending Touch (ACTION_MOVE): 0:(720.0,21.454458)
+:Sending Touch (ACTION_MOVE): 0:(720.0,20.352568)
+:Sending Touch (ACTION_UP): 0:(720.0,20.215374)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(623.0,875.0)
+:Sending Touch (ACTION_MOVE): 0:(628.2467,877.11835)
+:Sending Touch (ACTION_MOVE): 0:(632.7686,882.43384)
+:Sending Touch (ACTION_MOVE): 0:(633.7137,886.4933)
+:Sending Touch (ACTION_MOVE): 0:(634.4727,888.7336)
+:Sending Touch (ACTION_MOVE): 0:(634.68445,903.6773)
+:Sending Touch (ACTION_MOVE): 0:(634.864,922.6417)
+:Sending Touch (ACTION_UP): 0:(643.3373,937.1325)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(84.0,982.0)
+:Sending Touch (ACTION_UP): 0:(87.335434,980.2544)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(131.0,705.0)
+:Sending Touch (ACTION_MOVE): 0:(126.269554,707.57117)
+:Sending Touch (ACTION_MOVE): 0:(125.39667,712.6347)
+:Sending Touch (ACTION_MOVE): 0:(124.86363,716.3155)
+:Sending Touch (ACTION_MOVE): 0:(121.43957,721.56146)
+:Sending Touch (ACTION_UP): 0:(118.68447,726.5156)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(316.0,979.0)
+:Sending Touch (ACTION_UP): 0:(320.68256,978.2189)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(133.0,1029.0)
+:Sending Touch (ACTION_MOVE): 0:(136.02304,1043.2977)
+:Sending Touch (ACTION_MOVE): 0:(137.03621,1054.2173)
+:Sending Touch (ACTION_MOVE): 0:(139.14032,1062.9901)
+:Sending Touch (ACTION_MOVE): 0:(140.98425,1073.9392)
+:Sending Touch (ACTION_MOVE): 0:(142.46857,1086.2327)
+:Sending Touch (ACTION_MOVE): 0:(144.38669,1091.8529)
+:Sending Touch (ACTION_MOVE): 0:(147.03452,1099.9675)
+:Sending Touch (ACTION_UP): 0:(149.22208,1107.039)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(171.0,1021.0)
+:Sending Touch (ACTION_UP): 0:(172.24449,1029.5983)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+    //[calendar_time:2018-01-29 17:39:25.500  system_uptime:2701475]
+    // Sending event #300
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(190.0,308.0)
+:Sending Touch (ACTION_UP): 0:(195.3067,308.11548)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(455.0,269.0)
+:Sending Touch (ACTION_MOVE): 0:(449.79745,264.0315)
+:Sending Touch (ACTION_MOVE): 0:(449.32666,260.80573)
+:Sending Touch (ACTION_MOVE): 0:(436.7122,258.56302)
+:Sending Touch (ACTION_MOVE): 0:(428.53513,241.77095)
+:Sending Touch (ACTION_MOVE): 0:(419.96826,239.39404)
+:Sending Touch (ACTION_UP): 0:(416.94336,217.68701)
+Sleeping for 300 milliseconds
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(640.0,1208.0)
+:Sending Touch (ACTION_MOVE): 0:(650.291,1200.9082)
+:Sending Touch (ACTION_MOVE): 0:(650.4843,1181.3185)
+:Sending Touch (ACTION_MOVE): 0:(660.2989,1167.9325)
+:Sending Touch (ACTION_MOVE): 0:(670.67676,1158.4657)
+:Sending Touch (ACTION_MOVE): 0:(678.1945,1139.0049)
+:Sending Touch (ACTION_MOVE): 0:(683.1427,1123.4518)
+:Sending Touch (ACTION_MOVE): 0:(690.6113,1102.7313)
+:Sending Touch (ACTION_MOVE): 0:(691.3232,1092.8824)
+:Sending Touch (ACTION_MOVE): 0:(700.3327,1080.0082)
+:Sending Touch (ACTION_UP): 0:(709.2664,1069.9142)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(34.0,1017.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(48.911232,1016.5) 1:(715.0,815.0)
+:Sending Touch (ACTION_MOVE): 0:(64.50071,1009.3376) 1:(715.87286,814.424)
+:Sending Touch (ACTION_MOVE): 0:(80.831245,1003.46094) 1:(717.6026,809.35876)
+:Sending Touch (ACTION_MOVE): 0:(83.91413,995.3936) 1:(719.3951,797.00867)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(95.97233,993.9138) 1:(719.6793,779.6773)
+:Sending Touch (ACTION_UP): 0:(111.33209,986.85736)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(129.0,493.0)
+:Sending Touch (ACTION_MOVE): 0:(116.48762,480.10376)
+:Sending Touch (ACTION_MOVE): 0:(113.98618,476.34354)
+:Sending Touch (ACTION_UP): 0:(102.90993,468.06625)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(174.0,51.0)
+:Sending Touch (ACTION_MOVE): 0:(178.19658,52.74961)
+:Sending Touch (ACTION_MOVE): 0:(183.20024,64.706055)
+:Sending Touch (ACTION_MOVE): 0:(205.21393,75.83748)
+:Sending Touch (ACTION_MOVE): 0:(224.42307,86.920105)
+:Sending Touch (ACTION_MOVE): 0:(231.33931,103.347374)
+:Sending Touch (ACTION_MOVE): 0:(237.72433,107.435745)
+:Sending Touch (ACTION_MOVE): 0:(246.29605,119.156784)
+:Sending Touch (ACTION_UP): 0:(253.29099,131.69229)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(244.0,548.0)
+:Sending Touch (ACTION_MOVE): 0:(228.46248,559.7672)
+:Sending Touch (ACTION_MOVE): 0:(226.90262,562.2453)
+:Sending Touch (ACTION_MOVE): 0:(224.89511,568.34753)
+:Sending Touch (ACTION_MOVE): 0:(221.97433,580.51306)
+:Sending Touch (ACTION_MOVE): 0:(204.41011,587.4637)
+:Sending Touch (ACTION_MOVE): 0:(183.15405,590.98236)
+:Sending Touch (ACTION_MOVE): 0:(179.67575,600.5002)
+:Sending Touch (ACTION_MOVE): 0:(161.4996,618.3826)
+:Sending Touch (ACTION_MOVE): 0:(140.34843,621.1442)
+:Sending Touch (ACTION_UP): 0:(120.74854,624.89655)
+Sleeping for 300 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(54.0,848.0)
+:Sending Touch (ACTION_MOVE): 0:(49.590134,862.5106)
+:Sending Touch (ACTION_MOVE): 0:(45.789165,864.1036)
+:Sending Touch (ACTION_MOVE): 0:(45.450912,867.2747)
+:Sending Touch (ACTION_UP): 0:(43.89962,880.07227)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(496.0,26.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(495.36475,26.697542) 1:(466.0,336.0)
+:Sending Touch (ACTION_MOVE): 0:(490.9596,33.82341) 1:(465.15146,352.56543)
+:Sending Touch (ACTION_MOVE): 0:(490.17685,35.874752) 1:(453.0163,368.0566)
+:Sending Touch (ACTION_MOVE): 0:(488.5488,37.1012) 1:(452.31366,370.49884)
+:Sending Touch (ACTION_MOVE): 0:(485.1203,38.296234) 1:(444.52322,377.97083)
+:Sending Touch (ACTION_MOVE): 0:(484.32874,50.358673) 1:(425.42734,386.4837)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(481.29163,56.051098) 1:(418.77567,387.77344)
+:Sending Touch (ACTION_UP): 0:(479.84085,63.68573)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(141.0,281.0)
+:Sending Touch (ACTION_UP): 0:(131.7029,281.8457)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(207.0,877.0)
+:Sending Touch (ACTION_UP): 0:(193.92014,878.51526)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(662.0,837.0)
+:Sending Touch (ACTION_UP): 0:(661.74896,820.3615)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(425.0,254.0)
+:Sending Touch (ACTION_MOVE): 0:(432.27255,256.22244)
+:Sending Touch (ACTION_MOVE): 0:(432.69934,266.67776)
+:Sending Touch (ACTION_MOVE): 0:(437.30286,267.99652)
+:Sending Touch (ACTION_MOVE): 0:(443.98212,278.52417)
+:Sending Touch (ACTION_MOVE): 0:(451.26428,281.06192)
+:Sending Touch (ACTION_MOVE): 0:(457.38568,290.8572)
+:Sending Touch (ACTION_MOVE): 0:(459.85095,296.2403)
+:Sending Touch (ACTION_MOVE): 0:(466.86755,306.98193)
+:Sending Touch (ACTION_MOVE): 0:(469.01758,316.14752)
+:Sending Touch (ACTION_UP): 0:(475.6566,325.65067)
+Sleeping for 300 milliseconds
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(161.0,850.0)
+:Sending Touch (ACTION_UP): 0:(161.05417,837.4518)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(58.0,1047.0)
+:Sending Touch (ACTION_UP): 0:(49.405006,1056.3884)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Events injected: 400
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=13 trackballs=0 flips=4 rotations=0
+## Network stats: elapsed time=37355ms (0ms mobile, 0ms wifi, 37355ms not connected)
+// Monkey finished

@@ -1,0 +1,825 @@
+180105 14:54:01 INFO | Use default config for monkey test--[monkey_server.py:22]
+180105 14:54:04 INFO | start server--[monkey_server.py:42]
+180105 14:54:12 DEBUG | connected devices:M95QACQASGWM2	device
+--[base.py:94]
+180105 14:54:12 DEBUG | split connect devices id: ['M95QACQASGWM2\tdevice\r', '']--[base.py:101]
+180105 14:54:12 DEBUG | get device: M95QACQASGWM2	device--[base.py:105]
+180105 14:54:12 DEBUG | got devices id: ['M95QACQASGWM2']--[base.py:108]
+180105 14:54:12 DEBUG | 'MX6
+'--[base.py:117]
+180105 14:54:12 DEBUG | MX6--[base.py:124]
+180105 14:54:12 DEBUG | get the device info: {'MX6': 'M95QACQASGWM2'}--[base.py:130]
+180105 14:54:12 DEBUG | current device dict: {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:27]
+180105 14:54:12 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:54:12 DEBUG | new device dict is: {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:35]
+180105 14:54:12 INFO | changed device: {'MX6': 'M95QACQASGWM2'}--[monkey.py:298]
+180105 14:54:17 DEBUG | connected devices:M95QACQASGWM2	device
+--[base.py:94]
+180105 14:54:17 DEBUG | split connect devices id: ['M95QACQASGWM2\tdevice\r', '']--[base.py:101]
+180105 14:54:17 DEBUG | get device: M95QACQASGWM2	device--[base.py:105]
+180105 14:54:17 DEBUG | got devices id: ['M95QACQASGWM2']--[base.py:108]
+180105 14:54:17 DEBUG | 'MX6
+'--[base.py:117]
+180105 14:54:17 DEBUG | MX6--[base.py:124]
+180105 14:54:17 DEBUG | get the device info: {'MX6': 'M95QACQASGWM2'}--[base.py:130]
+180105 14:54:17 DEBUG | current device dict: {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:27]
+180105 14:54:17 DEBUG | Config.device_dict is {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:28]
+180105 14:54:18 DEBUG | This system is Windows--[monkey_stop.py:71]
+180105 14:54:22 DEBUG | connected devices:M95QACQASGWM2	device
+--[base.py:94]
+180105 14:54:22 DEBUG | split connect devices id: ['M95QACQASGWM2\tdevice\r', '']--[base.py:101]
+180105 14:54:22 DEBUG | get device: M95QACQASGWM2	device--[base.py:105]
+180105 14:54:22 DEBUG | got devices id: ['M95QACQASGWM2']--[base.py:108]
+180105 14:54:22 DEBUG | 'MX6
+'--[base.py:117]
+180105 14:54:22 DEBUG | MX6--[base.py:124]
+180105 14:54:22 DEBUG | get the device info: {'MX6': 'M95QACQASGWM2'}--[base.py:130]
+180105 14:54:22 DEBUG | current device dict: {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:27]
+180105 14:54:22 DEBUG | Config.device_dict is {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:28]
+180105 14:54:27 DEBUG | connected devices:M95QACQASGWM2	device
+--[base.py:94]
+180105 14:54:27 DEBUG | split connect devices id: ['M95QACQASGWM2\tdevice\r', '']--[base.py:101]
+180105 14:54:27 DEBUG | get device: M95QACQASGWM2	device--[base.py:105]
+180105 14:54:27 DEBUG | got devices id: ['M95QACQASGWM2']--[base.py:108]
+180105 14:54:27 DEBUG | 'MX6
+'--[base.py:117]
+180105 14:54:27 DEBUG | MX6--[base.py:124]
+180105 14:54:27 DEBUG | get the device info: {'MX6': 'M95QACQASGWM2'}--[base.py:130]
+180105 14:54:27 DEBUG | current device dict: {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:27]
+180105 14:54:27 DEBUG | Config.device_dict is {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:28]
+180105 14:54:33 DEBUG | connected devices:M95QACQASGWM2	device
+--[base.py:94]
+180105 14:54:33 DEBUG | split connect devices id: ['M95QACQASGWM2\tdevice\r', '']--[base.py:101]
+180105 14:54:33 DEBUG | get device: M95QACQASGWM2	device--[base.py:105]
+180105 14:54:33 DEBUG | got devices id: ['M95QACQASGWM2']--[base.py:108]
+180105 14:54:33 DEBUG | 'MX6
+'--[base.py:117]
+180105 14:54:33 DEBUG | MX6--[base.py:124]
+180105 14:54:33 DEBUG | get the device info: {'MX6': 'M95QACQASGWM2'}--[base.py:130]
+180105 14:54:33 DEBUG | current device dict: {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:27]
+180105 14:54:33 DEBUG | Config.device_dict is {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:28]
+180105 14:54:38 INFO | All device lost--[base.py:97]
+180105 14:54:38 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:54:38 DEBUG | Config.device_dict is {'MX6': 'M95QACQASGWM2'}--[device_monitor.py:28]
+180105 14:54:38 INFO | device lost--[device_monitor.py:37]
+180105 14:54:43 INFO | All device lost--[base.py:97]
+180105 14:54:43 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:54:43 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:54:48 INFO | All device lost--[base.py:97]
+180105 14:54:48 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:54:48 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:54:53 INFO | All device lost--[base.py:97]
+180105 14:54:53 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:54:53 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:54:58 INFO | All device lost--[base.py:97]
+180105 14:54:58 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:54:58 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:03 INFO | All device lost--[base.py:97]
+180105 14:55:03 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:03 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:08 INFO | All device lost--[base.py:97]
+180105 14:55:08 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:08 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:13 INFO | All device lost--[base.py:97]
+180105 14:55:13 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:13 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:18 INFO | All device lost--[base.py:97]
+180105 14:55:18 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:18 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:23 INFO | All device lost--[base.py:97]
+180105 14:55:23 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:23 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:29 INFO | All device lost--[base.py:97]
+180105 14:55:29 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:29 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:34 INFO | All device lost--[base.py:97]
+180105 14:55:34 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:34 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:39 INFO | All device lost--[base.py:97]
+180105 14:55:39 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:39 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:44 INFO | All device lost--[base.py:97]
+180105 14:55:44 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:44 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:49 INFO | All device lost--[base.py:97]
+180105 14:55:49 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:49 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:54 INFO | All device lost--[base.py:97]
+180105 14:55:54 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:54 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:55:59 INFO | All device lost--[base.py:97]
+180105 14:55:59 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:55:59 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:56:04 INFO | All device lost--[base.py:97]
+180105 14:56:04 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:56:04 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:56:09 DEBUG | connected devices:efd43c89	device
+--[base.py:94]
+180105 14:56:09 DEBUG | split connect devices id: ['efd43c89\tdevice\r', '']--[base.py:101]
+180105 14:56:09 DEBUG | get device: efd43c89	device--[base.py:105]
+180105 14:56:09 DEBUG | got devices id: ['efd43c89']--[base.py:108]
+180105 14:56:09 DEBUG | 'MI 5
+'--[base.py:117]
+180105 14:56:09 DEBUG | MI 5--[base.py:124]
+180105 14:56:09 DEBUG | get the device info: {'MI5': 'efd43c89'}--[base.py:130]
+180105 14:56:09 DEBUG | current device dict: {'MI5': 'efd43c89'}--[device_monitor.py:27]
+180105 14:56:09 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:56:09 DEBUG | new device dict is: {'MI5': 'efd43c89'}--[device_monitor.py:35]
+180105 14:56:09 INFO | changed device: {'MI5': 'efd43c89'}--[monkey.py:298]
+180105 14:56:14 DEBUG | connected devices:efd43c89	device
+--[base.py:94]
+180105 14:56:14 DEBUG | split connect devices id: ['efd43c89\tdevice\r', '']--[base.py:101]
+180105 14:56:14 DEBUG | get device: efd43c89	device--[base.py:105]
+180105 14:56:14 DEBUG | got devices id: ['efd43c89']--[base.py:108]
+180105 14:56:14 DEBUG | 'MI 5
+'--[base.py:117]
+180105 14:56:14 DEBUG | MI 5--[base.py:124]
+180105 14:56:14 DEBUG | get the device info: {'MI5': 'efd43c89'}--[base.py:130]
+180105 14:56:14 DEBUG | current device dict: {'MI5': 'efd43c89'}--[device_monitor.py:27]
+180105 14:56:14 DEBUG | Config.device_dict is {'MI5': 'efd43c89'}--[device_monitor.py:28]
+180105 14:56:15 DEBUG | This system is Windows--[monkey_stop.py:71]
+180105 14:56:15 INFO | No monkey running in MI5--[monkey_stop.py:56]
+180105 14:56:17 INFO | start monkey with MI5--[monkey.py:207]
+180105 14:56:17 INFO | Monkey cmd: E:\android-sdk-windows\platform-tools\adb -s efd43c89 shell monkey -s 352 -p com.hhly.community.test -v  --throttle 300 --pct-trackball 0 --pct-syskeys 5 --pct-nav 0 --pct-anyevent 0 400   > E:\chenhh1334\monkey_merge\performance\monkey\monkeylog\2018-01-05\MI5_01-05~14-56-17.txt--[monkey.py:218]
+180105 14:56:17 INFO | monkey end with MI5--[monkey.py:221]
+180105 14:56:26 DEBUG | connected devices:efd43c89	device
+--[base.py:94]
+180105 14:56:26 DEBUG | split connect devices id: ['efd43c89\tdevice\r', '']--[base.py:101]
+180105 14:56:26 DEBUG | get device: efd43c89	device--[base.py:105]
+180105 14:56:26 DEBUG | got devices id: ['efd43c89']--[base.py:108]
+180105 14:56:26 DEBUG | 'MI 5
+'--[base.py:117]
+180105 14:56:26 DEBUG | MI 5--[base.py:124]
+180105 14:56:26 DEBUG | get the device info: {'MI5': 'efd43c89'}--[base.py:130]
+180105 14:56:26 DEBUG | current device dict: {'MI5': 'efd43c89'}--[device_monitor.py:27]
+180105 14:56:26 DEBUG | Config.device_dict is {'MI5': 'efd43c89'}--[device_monitor.py:28]
+180105 14:56:31 DEBUG | connected devices:efd43c89	device
+--[base.py:94]
+180105 14:56:31 DEBUG | split connect devices id: ['efd43c89\tdevice\r', '']--[base.py:101]
+180105 14:56:31 DEBUG | get device: efd43c89	device--[base.py:105]
+180105 14:56:31 DEBUG | got devices id: ['efd43c89']--[base.py:108]
+180105 14:56:31 DEBUG | 'MI 5
+'--[base.py:117]
+180105 14:56:31 DEBUG | MI 5--[base.py:124]
+180105 14:56:31 DEBUG | get the device info: {'MI5': 'efd43c89'}--[base.py:130]
+180105 14:56:31 DEBUG | current device dict: {'MI5': 'efd43c89'}--[device_monitor.py:27]
+180105 14:56:31 DEBUG | Config.device_dict is {'MI5': 'efd43c89'}--[device_monitor.py:28]
+180105 14:56:36 DEBUG | connected devices:efd43c89	device
+--[base.py:94]
+180105 14:56:36 DEBUG | split connect devices id: ['efd43c89\tdevice\r', '']--[base.py:101]
+180105 14:56:36 DEBUG | get device: efd43c89	device--[base.py:105]
+180105 14:56:36 DEBUG | got devices id: ['efd43c89']--[base.py:108]
+180105 14:56:36 DEBUG | 'MI 5
+'--[base.py:117]
+180105 14:56:36 DEBUG | MI 5--[base.py:124]
+180105 14:56:36 DEBUG | get the device info: {'MI5': 'efd43c89'}--[base.py:130]
+180105 14:56:36 DEBUG | current device dict: {'MI5': 'efd43c89'}--[device_monitor.py:27]
+180105 14:56:36 DEBUG | Config.device_dict is {'MI5': 'efd43c89'}--[device_monitor.py:28]
+180105 14:56:41 DEBUG | connected devices:efd43c89	device
+--[base.py:94]
+180105 14:56:41 DEBUG | split connect devices id: ['efd43c89\tdevice\r', '']--[base.py:101]
+180105 14:56:41 DEBUG | get device: efd43c89	device--[base.py:105]
+180105 14:56:41 DEBUG | got devices id: ['efd43c89']--[base.py:108]
+180105 14:56:41 DEBUG | 'MI 5
+'--[base.py:117]
+180105 14:56:41 DEBUG | MI 5--[base.py:124]
+180105 14:56:41 DEBUG | get the device info: {'MI5': 'efd43c89'}--[base.py:130]
+180105 14:56:41 DEBUG | current device dict: {'MI5': 'efd43c89'}--[device_monitor.py:27]
+180105 14:56:41 DEBUG | Config.device_dict is {'MI5': 'efd43c89'}--[device_monitor.py:28]
+180105 14:56:46 DEBUG | connected devices:efd43c89	device
+--[base.py:94]
+180105 14:56:46 DEBUG | split connect devices id: ['efd43c89\tdevice\r', '']--[base.py:101]
+180105 14:56:46 DEBUG | get device: efd43c89	device--[base.py:105]
+180105 14:56:46 DEBUG | got devices id: ['efd43c89']--[base.py:108]
+180105 14:56:46 DEBUG | 'MI 5
+'--[base.py:117]
+180105 14:56:46 DEBUG | MI 5--[base.py:124]
+180105 14:56:46 DEBUG | get the device info: {'MI5': 'efd43c89'}--[base.py:130]
+180105 14:56:46 DEBUG | current device dict: {'MI5': 'efd43c89'}--[device_monitor.py:27]
+180105 14:56:46 DEBUG | Config.device_dict is {'MI5': 'efd43c89'}--[device_monitor.py:28]
+180105 14:56:51 DEBUG | connected devices:efd43c89	device
+--[base.py:94]
+180105 14:56:51 DEBUG | split connect devices id: ['efd43c89\tdevice\r', '']--[base.py:101]
+180105 14:56:51 DEBUG | get device: efd43c89	device--[base.py:105]
+180105 14:56:51 DEBUG | got devices id: ['efd43c89']--[base.py:108]
+180105 14:56:51 DEBUG | 'MI 5
+'--[base.py:117]
+180105 14:56:51 DEBUG | MI 5--[base.py:124]
+180105 14:56:51 DEBUG | get the device info: {'MI5': 'efd43c89'}--[base.py:130]
+180105 14:56:51 DEBUG | current device dict: {'MI5': 'efd43c89'}--[device_monitor.py:27]
+180105 14:56:51 DEBUG | Config.device_dict is {'MI5': 'efd43c89'}--[device_monitor.py:28]
+180105 14:56:56 INFO | capture screen--[monkey.py:228]
+180105 14:56:56 DEBUG | connected devices:efd43c89	device
+--[base.py:94]
+180105 14:56:56 DEBUG | split connect devices id: ['efd43c89\tdevice\r', '']--[base.py:101]
+180105 14:56:56 DEBUG | get device: efd43c89	device--[base.py:105]
+180105 14:56:56 DEBUG | got devices id: ['efd43c89']--[base.py:108]
+180105 14:56:56 DEBUG | 'MI 5
+'--[base.py:117]
+180105 14:56:56 DEBUG | MI 5--[base.py:124]
+180105 14:56:56 DEBUG | get the device info: {'MI5': 'efd43c89'}--[base.py:130]
+180105 14:56:56 DEBUG | current device dict: {'MI5': 'efd43c89'}--[device_monitor.py:27]
+180105 14:56:56 DEBUG | Config.device_dict is {'MI5': 'efd43c89'}--[device_monitor.py:28]
+180105 14:56:57 INFO | [ 22%] /sdcard/MI5_01-05~14-56-17.png
+[ 44%] /sdcard/MI5_01-05~14-56-17.png
+[ 66%] /sdcard/MI5_01-05~14-56-17.png
+[ 89%] /sdcard/MI5_01-05~14-56-17.png
+[100%] /sdcard/MI5_01-05~14-56-17.png
+/sdcard/MI5_01-05~14-56-17.png: 1 file pulled. 2.7 MB/s (293659 bytes in 0.102s)--[monkey.py:235]
+180105 14:56:57 INFO | deal_with_log--[monkey.py:244]
+180105 14:56:59 INFO | 发送成功--[mail.py:48]
+180105 14:57:01 INFO | All device lost--[base.py:97]
+180105 14:57:01 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:57:01 DEBUG | Config.device_dict is {'MI5': 'efd43c89'}--[device_monitor.py:28]
+180105 14:57:01 INFO | device lost--[device_monitor.py:37]
+180105 14:57:07 INFO | All device lost--[base.py:97]
+180105 14:57:07 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:57:07 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:57:12 INFO | All device lost--[base.py:97]
+180105 14:57:12 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:57:12 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:57:17 INFO | All device lost--[base.py:97]
+180105 14:57:17 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:57:17 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:57:22 INFO | All device lost--[base.py:97]
+180105 14:57:22 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:57:22 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:57:27 INFO | All device lost--[base.py:97]
+180105 14:57:27 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:57:27 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:57:32 INFO | All device lost--[base.py:97]
+180105 14:57:32 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:57:32 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:57:37 INFO | All device lost--[base.py:97]
+180105 14:57:37 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:57:37 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:57:42 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:57:42 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:57:42 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:57:42 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:57:42 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:57:42 DEBUG | NX575J--[base.py:124]
+180105 14:57:42 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:57:42 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:57:42 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:57:42 DEBUG | new device dict is: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:35]
+180105 14:57:42 INFO | changed device: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[monkey.py:298]
+180105 14:57:47 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:57:47 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:57:47 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:57:47 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:57:47 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:57:47 DEBUG | NX575J--[base.py:124]
+180105 14:57:47 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:57:47 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:57:47 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:57:48 DEBUG | This system is Windows--[monkey_stop.py:71]
+180105 14:57:48 INFO | No monkey running in NX575J--[monkey_stop.py:56]
+180105 14:57:50 INFO | start monkey with NX575J--[monkey.py:207]
+180105 14:57:50 INFO | Monkey cmd: E:\android-sdk-windows\platform-tools\adb -s QSUWGQMVGUKJQKI7 shell monkey -s 352 -p com.hhly.community.test -v  --throttle 300 --pct-trackball 0 --pct-syskeys 5 --pct-nav 0 --pct-anyevent 0 400   > E:\chenhh1334\monkey_merge\performance\monkey\monkeylog\2018-01-05\NX575J_01-05~14-57-50.txt--[monkey.py:218]
+180105 14:57:50 INFO | monkey end with NX575J--[monkey.py:221]
+180105 14:57:52 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:57:52 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:57:52 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:57:52 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:57:52 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:57:52 DEBUG | NX575J--[base.py:124]
+180105 14:57:52 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:57:52 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:57:52 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:57:57 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:57:57 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:57:57 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:57:57 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:57:58 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:57:58 DEBUG | NX575J--[base.py:124]
+180105 14:57:58 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:57:58 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:57:58 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:58:03 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:58:03 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:58:03 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:58:03 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:58:03 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:58:03 DEBUG | NX575J--[base.py:124]
+180105 14:58:03 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:58:03 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:58:03 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:58:08 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:58:08 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:58:08 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:58:08 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:58:08 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:58:08 DEBUG | NX575J--[base.py:124]
+180105 14:58:08 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:58:08 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:58:08 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:58:13 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:58:13 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:58:13 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:58:13 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:58:13 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:58:13 DEBUG | NX575J--[base.py:124]
+180105 14:58:13 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:58:13 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:58:13 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:58:18 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:58:18 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:58:18 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:58:18 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:58:18 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:58:18 DEBUG | NX575J--[base.py:124]
+180105 14:58:18 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:58:18 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:58:18 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:58:23 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:58:23 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:58:23 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:58:23 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:58:23 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:58:23 DEBUG | NX575J--[base.py:124]
+180105 14:58:23 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:58:23 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:58:23 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:58:28 DEBUG | connected devices:QSUWGQMVGUKJQKI7	device
+--[base.py:94]
+180105 14:58:28 DEBUG | split connect devices id: ['QSUWGQMVGUKJQKI7\tdevice\r', '']--[base.py:101]
+180105 14:58:28 DEBUG | get device: QSUWGQMVGUKJQKI7	device--[base.py:105]
+180105 14:58:28 DEBUG | got devices id: ['QSUWGQMVGUKJQKI7']--[base.py:108]
+180105 14:58:28 INFO | capture screen--[monkey.py:228]
+180105 14:58:30 DEBUG | 'NX575J
+'--[base.py:117]
+180105 14:58:30 DEBUG | NX575J--[base.py:124]
+180105 14:58:30 DEBUG | get the device info: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[base.py:130]
+180105 14:58:30 DEBUG | current device dict: {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:27]
+180105 14:58:30 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:58:30 INFO | [100%] /sdcard/NX575J_01-05~14-57-50.png
+/sdcard/NX575J_01-05~14-57-50.png: 1 file pulled. 4.7 MB/s (54704 bytes in 0.011s)--[monkey.py:235]
+180105 14:58:30 INFO | deal_with_log--[monkey.py:244]
+180105 14:58:31 INFO | 发送成功--[mail.py:48]
+180105 14:58:35 INFO | All device lost--[base.py:97]
+180105 14:58:35 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:58:35 DEBUG | Config.device_dict is {'NX575J': 'QSUWGQMVGUKJQKI7'}--[device_monitor.py:28]
+180105 14:58:35 INFO | device lost--[device_monitor.py:37]
+180105 14:58:40 INFO | All device lost--[base.py:97]
+180105 14:58:40 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:58:40 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:58:45 INFO | All device lost--[base.py:97]
+180105 14:58:45 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:58:45 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:58:50 INFO | All device lost--[base.py:97]
+180105 14:58:50 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:58:50 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:58:55 INFO | All device lost--[base.py:97]
+180105 14:58:55 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:58:55 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:00 INFO | All device lost--[base.py:97]
+180105 14:59:00 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:00 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:05 INFO | All device lost--[base.py:97]
+180105 14:59:05 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:05 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:10 INFO | All device lost--[base.py:97]
+180105 14:59:10 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:10 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:15 INFO | All device lost--[base.py:97]
+180105 14:59:15 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:15 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:21 INFO | All device lost--[base.py:97]
+180105 14:59:21 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:21 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:26 INFO | All device lost--[base.py:97]
+180105 14:59:26 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:26 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:31 INFO | All device lost--[base.py:97]
+180105 14:59:31 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:31 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:36 INFO | All device lost--[base.py:97]
+180105 14:59:36 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:36 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:41 INFO | All device lost--[base.py:97]
+180105 14:59:41 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:41 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:46 INFO | All device lost--[base.py:97]
+180105 14:59:46 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:46 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:51 INFO | All device lost--[base.py:97]
+180105 14:59:51 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:51 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 14:59:56 INFO | All device lost--[base.py:97]
+180105 14:59:56 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 14:59:56 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:01 INFO | All device lost--[base.py:97]
+180105 15:00:01 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:01 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:06 INFO | All device lost--[base.py:97]
+180105 15:00:06 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:06 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:11 INFO | All device lost--[base.py:97]
+180105 15:00:11 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:11 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:16 INFO | All device lost--[base.py:97]
+180105 15:00:16 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:16 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:21 INFO | All device lost--[base.py:97]
+180105 15:00:21 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:21 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:26 INFO | All device lost--[base.py:97]
+180105 15:00:26 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:26 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:32 INFO | All device lost--[base.py:97]
+180105 15:00:32 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:32 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:37 INFO | All device lost--[base.py:97]
+180105 15:00:37 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:37 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:42 INFO | All device lost--[base.py:97]
+180105 15:00:42 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:42 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:47 INFO | All device lost--[base.py:97]
+180105 15:00:47 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:47 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:52 INFO | All device lost--[base.py:97]
+180105 15:00:52 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:52 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:00:57 INFO | All device lost--[base.py:97]
+180105 15:00:57 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:00:57 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:01:02 INFO | All device lost--[base.py:97]
+180105 15:01:02 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:01:02 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:01:07 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:07 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:07 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:07 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:07 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:07 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:07 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:07 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:07 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:01:07 DEBUG | new device dict is: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:35]
+180105 15:01:07 INFO | changed device: {'HTCD10w': 'LC75RZ900386'}--[monkey.py:298]
+180105 15:01:12 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:12 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:12 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:12 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:12 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:12 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:12 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:12 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:12 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:01:13 DEBUG | This system is Windows--[monkey_stop.py:71]
+180105 15:01:13 INFO | No monkey running in HTCD10w--[monkey_stop.py:56]
+180105 15:01:15 INFO | start monkey with HTCD10w--[monkey.py:207]
+180105 15:01:15 INFO | Monkey cmd: E:\android-sdk-windows\platform-tools\adb -s LC75RZ900386 shell monkey -s 352 -p com.hhly.community.test -v  --throttle 300 --pct-trackball 0 --pct-syskeys 5 --pct-nav 0 --pct-anyevent 0 400   > E:\chenhh1334\monkey_merge\performance\monkey\monkeylog\2018-01-05\HTCD10w_01-05~15-01-15.txt--[monkey.py:218]
+180105 15:01:15 INFO | monkey end with HTCD10w--[monkey.py:221]
+180105 15:01:17 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:17 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:17 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:17 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:17 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:17 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:17 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:17 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:17 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:01:22 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:22 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:22 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:22 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:22 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:22 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:22 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:22 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:22 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:01:27 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:27 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:27 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:27 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:28 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:28 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:28 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:28 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:28 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:01:33 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:33 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:33 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:33 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:33 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:33 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:33 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:33 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:33 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:01:38 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:38 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:38 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:38 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:38 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:38 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:38 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:38 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:38 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:01:43 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:43 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:43 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:43 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:43 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:43 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:43 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:43 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:43 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:01:48 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:48 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:48 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:48 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:48 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:48 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:48 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:48 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:48 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:01:53 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:53 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:53 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:53 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:53 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:53 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:53 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:53 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:53 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:01:58 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:01:58 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:01:58 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:01:58 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:01:59 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:01:59 DEBUG | HTC D10w--[base.py:124]
+180105 15:01:59 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:01:59 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:01:59 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:04 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:04 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:04 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:04 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:04 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:04 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:04 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:04 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:04 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:09 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:09 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:09 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:09 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:09 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:09 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:09 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:09 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:09 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:14 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:14 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:14 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:14 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:14 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:14 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:14 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:14 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:14 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:19 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:19 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:19 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:19 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:19 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:19 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:19 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:19 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:19 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:24 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:24 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:24 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:24 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:24 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:24 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:24 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:24 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:24 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:29 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:29 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:29 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:29 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:29 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:29 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:29 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:29 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:29 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:35 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:35 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:35 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:35 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:35 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:35 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:35 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:35 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:35 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:40 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:40 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:40 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:40 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:40 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:40 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:40 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:40 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:40 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:45 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:45 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:45 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:45 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:45 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:45 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:45 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:45 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:45 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:50 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:50 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:50 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:50 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:50 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:50 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:50 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:50 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:50 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:02:55 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:02:55 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:02:55 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:02:55 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:02:55 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:02:55 DEBUG | HTC D10w--[base.py:124]
+180105 15:02:55 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:02:55 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:02:55 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:03:00 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:03:00 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:03:00 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:03:00 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:03:00 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:03:00 DEBUG | HTC D10w--[base.py:124]
+180105 15:03:00 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:03:00 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:03:00 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:03:05 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:03:05 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:03:05 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:03:05 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:03:05 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:03:05 DEBUG | HTC D10w--[base.py:124]
+180105 15:03:05 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:03:05 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:03:05 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:03:11 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:03:11 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:03:11 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:03:11 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:03:11 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:03:11 DEBUG | HTC D10w--[base.py:124]
+180105 15:03:11 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:03:11 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:03:11 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:03:16 DEBUG | connected devices:LC75RZ900386	device
+--[base.py:94]
+180105 15:03:16 DEBUG | split connect devices id: ['LC75RZ900386\tdevice\r', '']--[base.py:101]
+180105 15:03:16 DEBUG | get device: LC75RZ900386	device--[base.py:105]
+180105 15:03:16 DEBUG | got devices id: ['LC75RZ900386']--[base.py:108]
+180105 15:03:16 DEBUG | 'HTC D10w
+'--[base.py:117]
+180105 15:03:16 DEBUG | HTC D10w--[base.py:124]
+180105 15:03:16 DEBUG | get the device info: {'HTCD10w': 'LC75RZ900386'}--[base.py:130]
+180105 15:03:16 DEBUG | current device dict: {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:27]
+180105 15:03:16 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:03:21 INFO | All device lost--[base.py:97]
+180105 15:03:21 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:03:21 DEBUG | Config.device_dict is {'HTCD10w': 'LC75RZ900386'}--[device_monitor.py:28]
+180105 15:03:21 INFO | device lost--[device_monitor.py:37]
+180105 15:03:26 INFO | All device lost--[base.py:97]
+180105 15:03:26 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:03:26 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:03:31 INFO | All device lost--[base.py:97]
+180105 15:03:31 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:03:31 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:03:36 INFO | All device lost--[base.py:97]
+180105 15:03:36 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:03:36 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:03:41 INFO | All device lost--[base.py:97]
+180105 15:03:41 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:03:41 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:03:46 INFO | All device lost--[base.py:97]
+180105 15:03:46 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:03:46 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:03:51 INFO | All device lost--[base.py:97]
+180105 15:03:51 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:03:51 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:03:56 INFO | All device lost--[base.py:97]
+180105 15:03:56 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:03:56 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:01 INFO | All device lost--[base.py:97]
+180105 15:04:01 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:01 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:06 INFO | All device lost--[base.py:97]
+180105 15:04:06 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:06 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:11 INFO | All device lost--[base.py:97]
+180105 15:04:11 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:11 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:16 INFO | All device lost--[base.py:97]
+180105 15:04:16 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:16 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:21 INFO | All device lost--[base.py:97]
+180105 15:04:21 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:21 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:26 INFO | All device lost--[base.py:97]
+180105 15:04:26 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:26 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:31 INFO | All device lost--[base.py:97]
+180105 15:04:31 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:31 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:37 INFO | All device lost--[base.py:97]
+180105 15:04:37 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:37 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:42 INFO | All device lost--[base.py:97]
+180105 15:04:42 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:42 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:47 INFO | All device lost--[base.py:97]
+180105 15:04:47 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:47 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:52 INFO | All device lost--[base.py:97]
+180105 15:04:52 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:52 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:04:57 INFO | All device lost--[base.py:97]
+180105 15:04:57 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:04:57 DEBUG | Config.device_dict is {}--[device_monitor.py:28]
+180105 15:05:02 INFO | All device lost--[base.py:97]
+180105 15:05:02 DEBUG | current device dict: {}--[device_monitor.py:27]
+180105 15:05:02 DEBUG | Config.device_dict is {}--[device_monitor.py:28]

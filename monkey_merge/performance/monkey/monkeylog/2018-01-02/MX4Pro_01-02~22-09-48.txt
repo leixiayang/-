@@ -1,0 +1,127 @@
+:Monkey: seed=249 count=400
+:AllowPackage: com.hhly.community.test
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 31.666668%
+//   1: 21.11111%
+//   2: 4.2222223%
+//   3: -0.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 31.666668%
+//   7: 5.0%
+//   8: 4.2222223%
+//   9: 2.1111112%
+//   10: -0.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(15.0,576.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(0.0,649.00415)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1351.0,1500.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1313.7902,1479.803)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1506.0,2338.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1506.1108,2350.1929)
+    // Injection Failed
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.main.MainActivity } in package com.hhly.community.test
+    // activityResuming(com.hhly.community.test)
+:Sending Touch (ACTION_DOWN): 0:(49.0,898.0)
+:Sending Touch (ACTION_UP): 0:(40.92769,886.26013)
+:Sending Touch (ACTION_DOWN): 0:(1409.0,1457.0)
+:Sending Touch (ACTION_UP): 0:(1432.3949,1485.7039)
+:Sending Touch (ACTION_DOWN): 0:(33.0,634.0)
+:Sending Touch (ACTION_UP): 0:(18.029469,662.5599)
+:Sending Touch (ACTION_DOWN): 0:(633.0,222.0)
+:Sending Touch (ACTION_UP): 0:(631.73047,219.68413)
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.login.LoginActivity } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(694.0,2056.0)
+:Sending Touch (ACTION_UP): 0:(654.5467,2109.4167)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+    // Rejecting start of Intent { cmp=com.sina.weibo/.SSOActivity } in package com.sina.weibo
+:Sending Touch (ACTION_DOWN): 0:(508.0,716.0)
+:Sending Touch (ACTION_UP): 0:(517.29376,716.61865)
+:Sending Touch (ACTION_DOWN): 0:(1278.0,87.0)
+:Sending Touch (ACTION_UP): 0:(1206.0891,29.795084)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,2421.0)
+:Sending Touch (ACTION_UP): 0:(1047.9836,2415.2134)
+:Sending Touch (ACTION_DOWN): 0:(201.0,726.0)
+:Sending Touch (ACTION_UP): 0:(151.17247,699.8517)
+:Sending Touch (ACTION_DOWN): 0:(221.0,1411.0)
+:Sending Touch (ACTION_UP): 0:(219.62138,1396.8607)
+:Sending Touch (ACTION_DOWN): 0:(1086.0,446.0)
+    //[calendar_time:2018-01-02 22:10:00.435  system_uptime:454523]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(1081.2961,461.692)
+:Sending Touch (ACTION_DOWN): 0:(114.0,1966.0)
+:Sending Touch (ACTION_UP): 0:(137.29498,1942.143)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,665.0)
+:Sending Touch (ACTION_UP): 0:(1064.1655,661.1788)
+:Sending Touch (ACTION_DOWN): 0:(665.0,1305.0)
+:Sending Touch (ACTION_UP): 0:(723.67847,1274.757)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(1381.0,2334.0)
+:Sending Touch (ACTION_UP): 0:(1387.5277,2336.5159)
+:Sending Touch (ACTION_DOWN): 0:(243.0,1100.0)
+:Sending Touch (ACTION_UP): 0:(237.82607,1091.8579)
+:Sending Touch (ACTION_DOWN): 0:(1177.0,5.0)
+:Sending Touch (ACTION_UP): 0:(1178.0642,0.0)
+:Sending Touch (ACTION_DOWN): 0:(357.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(361.54416,1677.805)
+:Sending Touch (ACTION_DOWN): 0:(684.0,1218.0)
+:Sending Touch (ACTION_UP): 0:(681.78253,1208.4377)
+:Sending Touch (ACTION_DOWN): 0:(1519.0,2037.0)
+:Sending Touch (ACTION_UP): 0:(1514.6505,2028.0043)
+:Sending Touch (ACTION_DOWN): 0:(34.0,2489.0)
+:Sending Touch (ACTION_UP): 0:(30.510395,2479.8003)
+:Sending Touch (ACTION_DOWN): 0:(1337.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(1343.7002,1039.2186)
+:Sending Touch (ACTION_DOWN): 0:(681.0,2505.0)
+:Sending Touch (ACTION_UP): 0:(678.314,2501.9414)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.meizu.flyme.launcher/.Launcher } in package com.meizu.flyme.launcher
+:Sending Touch (ACTION_DOWN): 0:(236.0,1620.0)
+:Sending Touch (ACTION_UP): 0:(235.49733,1634.2184)
+:Sending Touch (ACTION_DOWN): 0:(1013.0,2403.0)
+:Sending Touch (ACTION_UP): 0:(1023.25586,2407.3481)
+:Sending Touch (ACTION_DOWN): 0:(607.0,167.0)
+:Sending Touch (ACTION_UP): 0:(637.51917,238.029)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(65.0,681.0)
+:Sending Touch (ACTION_UP): 0:(66.12275,680.5395)
+:Sending Touch (ACTION_DOWN): 0:(733.0,63.0)
+:Sending Touch (ACTION_UP): 0:(741.59033,72.720955)
+:Sending Touch (ACTION_DOWN): 0:(949.0,2195.0)
+:Sending Touch (ACTION_UP): 0:(950.0251,2203.038)
+:Sending Touch (ACTION_DOWN): 0:(271.0,13.0)
+:Sending Touch (ACTION_UP): 0:(281.87936,19.702766)
+    //[calendar_time:2018-01-02 22:10:11.825  system_uptime:465811]
+    // Sending event #200
+    //[calendar_time:2018-01-02 22:10:12.126  system_uptime:466112]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(252.0,2280.0)
+:Sending Touch (ACTION_UP): 0:(247.57616,2296.2583)
+:Sending Touch (ACTION_DOWN): 0:(469.0,379.0)
+:Sending Touch (ACTION_UP): 0:(583.31885,476.48935)
+:Sending Touch (ACTION_DOWN): 0:(454.0,1333.0)
+:Sending Touch (ACTION_UP): 0:(439.07858,1338.841)
+:Sending Touch (ACTION_DOWN): 0:(561.0,389.0)
+:Sending Touch (ACTION_UP): 0:(558.17865,388.5216)
+:Sending Touch (ACTION_DOWN): 0:(260.0,2349.0)
+:Sending Touch (ACTION_UP): 0:(184.18803,2322.5413)

@@ -1,0 +1,194 @@
+:Monkey: seed=277 count=400
+:AllowPackage: com.hhly.community.test
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 31.666668%
+//   1: 21.11111%
+//   2: 4.2222223%
+//   3: -0.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: -0.0%
+//   7: 31.666668%
+//   8: 5.0%
+//   9: 4.2222223%
+//   10: 2.1111112%
+//   11: -0.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(446.0,637.0)
+:Sending Touch (ACTION_UP): 0:(438.27548,663.4881)
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.main.MainActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+    // activityResuming(com.hhly.community.test)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,955.0)
+:Sending Touch (ACTION_UP): 0:(1078.2507,964.97644)
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.web.WebActivityActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(55.0,992.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(57.677357,991.18774)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(643.0,89.0)
+:Sending Touch (ACTION_UP): 0:(682.67737,37.850224)
+:Sending Touch (ACTION_DOWN): 0:(361.0,1279.0)
+:Sending Touch (ACTION_UP): 0:(448.87582,1268.2401)
+:Sending Touch (ACTION_DOWN): 0:(952.0,752.0)
+:Sending Touch (ACTION_UP): 0:(953.69104,742.4837)
+:Sending Touch (ACTION_DOWN): 0:(495.0,473.0)
+:Sending Touch (ACTION_UP): 0:(486.86453,465.06653)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,1300.0)
+:Sending Touch (ACTION_UP): 0:(1022.615,1290.8783)
+:Sending Touch (ACTION_DOWN): 0:(819.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(797.14215,1688.9852)
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.product.ProductDetailActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(834.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(806.61523,1232.6495)
+:Sending Touch (ACTION_DOWN): 0:(118.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(121.2672,1644.9167)
+:Sending Touch (ACTION_DOWN): 0:(56.0,586.0)
+:Sending Touch (ACTION_UP): 0:(53.878975,567.4125)
+:Sending Touch (ACTION_DOWN): 0:(701.0,205.0)
+:Sending Touch (ACTION_UP): 0:(710.3773,208.01576)
+:Sending Touch (ACTION_DOWN): 0:(547.0,10.0)
+:Sending Touch (ACTION_UP): 0:(541.8649,1.4340777)
+:Sending Touch (ACTION_DOWN): 0:(428.0,1489.0)
+:Sending Touch (ACTION_UP): 0:(457.84253,1537.4232)
+:Sending Touch (ACTION_DOWN): 0:(833.0,1879.0)
+:Sending Touch (ACTION_UP): 0:(820.8237,1875.4098)
+:Sending Touch (ACTION_DOWN): 0:(588.0,40.0)
+:Sending Touch (ACTION_UP): 0:(577.2278,44.90351)
+:Sending Touch (ACTION_DOWN): 0:(53.0,920.0)
+:Sending Touch (ACTION_UP): 0:(81.819435,943.996)
+:Sending Touch (ACTION_DOWN): 0:(161.0,789.0)
+:Sending Touch (ACTION_UP): 0:(168.473,787.9923)
+    //[calendar_time:2018-01-04 17:36:32.131  system_uptime:6611262]
+    // Sending event #100
+    //[calendar_time:2018-01-04 17:36:32.432  system_uptime:6611564]
+    // Sending event #100
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(562.0,604.0)
+:Sending Touch (ACTION_UP): 0:(542.8318,603.52466)
+:Sending Touch (ACTION_DOWN): 0:(339.0,908.0)
+:Sending Touch (ACTION_UP): 0:(379.30038,878.4555)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.sec.android.app.launcher/.activities.LauncherActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.sec.android.app.launcher
+:Sending Touch (ACTION_DOWN): 0:(805.0,1079.0)
+:Sending Touch (ACTION_UP): 0:(801.1304,1077.6637)
+:Sending Touch (ACTION_DOWN): 0:(917.0,948.0)
+:Sending Touch (ACTION_UP): 0:(916.8557,961.7768)
+:Sending Touch (ACTION_DOWN): 0:(916.0,1640.0)
+:Sending Touch (ACTION_UP): 0:(837.20667,1560.4081)
+:Sending Touch (ACTION_DOWN): 0:(603.0,632.0)
+:Sending Touch (ACTION_UP): 0:(582.0634,610.95715)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(785.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(788.6365,1458.9248)
+:Sending Touch (ACTION_DOWN): 0:(767.0,1598.0)
+:Sending Touch (ACTION_UP): 0:(726.00854,1594.2056)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(179.0,1654.0)
+:Sending Touch (ACTION_UP): 0:(186.71492,1708.4657)
+:Sending Touch (ACTION_DOWN): 0:(579.0,943.0)
+:Sending Touch (ACTION_UP): 0:(569.85547,944.1357)
+:Sending Touch (ACTION_DOWN): 0:(900.0,1043.0)
+:Sending Touch (ACTION_UP): 0:(880.11743,1022.15344)
+:Sending Touch (ACTION_DOWN): 0:(292.0,1608.0)
+:Sending Touch (ACTION_UP): 0:(281.728,1603.0214)
+:Sending Touch (ACTION_DOWN): 0:(477.0,1775.0)
+:Sending Touch (ACTION_UP): 0:(480.29315,1772.6724)
+    // activityResuming(com.hhly.community.test)
+:Sending Touch (ACTION_DOWN): 0:(916.0,583.0)
+:Sending Touch (ACTION_UP): 0:(872.3506,585.251)
+:Sending Touch (ACTION_DOWN): 0:(108.0,1394.0)
+    //[calendar_time:2018-01-04 17:36:41.467  system_uptime:6620598]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(42.672363,1449.6973)
+:Sending Touch (ACTION_DOWN): 0:(365.0,188.0)
+:Sending Touch (ACTION_UP): 0:(367.28326,213.04187)
+:Sending Touch (ACTION_DOWN): 0:(701.0,1657.0)
+:Sending Touch (ACTION_UP): 0:(674.3166,1681.6552)
+:Sending Touch (ACTION_DOWN): 0:(988.0,1668.0)
+:Sending Touch (ACTION_UP): 0:(971.8126,1657.1158)
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.product.ProductDetailActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(368.0,1630.0)
+:Sending Touch (ACTION_UP): 0:(383.01617,1637.0559)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.sec.android.app.launcher/.activities.LauncherActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.sec.android.app.launcher
+:Sending Touch (ACTION_DOWN): 0:(567.0,819.0)
+:Sending Touch (ACTION_UP): 0:(559.5612,814.16345)
+:Sending Touch (ACTION_DOWN): 0:(136.0,1334.0)
+:Sending Touch (ACTION_UP): 0:(126.23913,1333.3284)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(716.0,1501.0)
+:Sending Touch (ACTION_UP): 0:(719.8195,1497.0227)
+:Sending Touch (ACTION_DOWN): 0:(84.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(51.369102,1073.7606)
+:Sending Touch (ACTION_DOWN): 0:(126.0,1476.0)
+:Sending Touch (ACTION_UP): 0:(130.24026,1473.32)
+:Sending Touch (ACTION_DOWN): 0:(290.0,1897.0)
+:Sending Touch (ACTION_UP): 0:(291.19952,1892.0433)
+:Sending Touch (ACTION_DOWN): 0:(174.0,830.0)
+:Sending Touch (ACTION_UP): 0:(232.8289,828.0928)
+:Sending Touch (ACTION_DOWN): 0:(392.0,1645.0)
+:Sending Touch (ACTION_UP): 0:(339.95578,1599.454)
+:Sending Touch (ACTION_DOWN): 0:(970.0,787.0)
+:Sending Touch (ACTION_UP): 0:(968.1994,788.84454)
+:Sending Touch (ACTION_DOWN): 0:(143.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(141.57088,1233.2606)
+:Sending Touch (ACTION_DOWN): 0:(599.0,876.0)
+:Sending Touch (ACTION_UP): 0:(598.6414,873.9092)
+:Sending Touch (ACTION_DOWN): 0:(850.0,360.0)
+:Sending Touch (ACTION_UP): 0:(862.1258,370.53592)
+:Sending Touch (ACTION_DOWN): 0:(536.0,579.0)
+:Sending Touch (ACTION_UP): 0:(543.5616,588.17664)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(108.0,782.0)
+:Sending Touch (ACTION_UP): 0:(126.36448,780.3964)
+    //[calendar_time:2018-01-04 17:36:52.487  system_uptime:6631618]
+    // Sending event #300
+    //[calendar_time:2018-01-04 17:36:52.788  system_uptime:6631919]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(887.0,608.0)
+:Sending Touch (ACTION_UP): 0:(847.13855,627.0317)
+:Sending Touch (ACTION_DOWN): 0:(628.0,1293.0)
+:Sending Touch (ACTION_UP): 0:(563.6771,1250.2238)
+:Sending Touch (ACTION_DOWN): 0:(595.0,1484.0)
+:Sending Touch (ACTION_UP): 0:(586.9641,1473.5593)
+:Sending Touch (ACTION_DOWN): 0:(95.0,999.0)
+:Sending Touch (ACTION_UP): 0:(103.27626,988.508)
+:Sending Touch (ACTION_DOWN): 0:(379.0,401.0)
+:Sending Touch (ACTION_UP): 0:(459.42963,396.63947)
+:Sending Touch (ACTION_DOWN): 0:(863.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(868.17004,1375.0199)
+:Sending Touch (ACTION_DOWN): 0:(204.0,1310.0)
+:Sending Touch (ACTION_UP): 0:(291.51053,1365.341)
+:Sending Touch (ACTION_DOWN): 0:(717.0,1896.0)
+:Sending Touch (ACTION_UP): 0:(691.31573,1763.9081)
+:Sending Touch (ACTION_DOWN): 0:(523.0,1387.0)
+:Sending Touch (ACTION_UP): 0:(519.6285,1479.1499)
+:Sending Touch (ACTION_DOWN): 0:(648.0,1816.0)
+:Sending Touch (ACTION_UP): 0:(648.76135,1815.5309)
+:Sending Touch (ACTION_DOWN): 0:(79.0,549.0)
+:Sending Touch (ACTION_UP): 0:(174.9417,570.4443)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(317.0,1167.0)
+Events injected: 400
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=4 trackballs=0 flips=5 rotations=0
+## Network stats: elapsed time=36823ms (0ms mobile, 0ms wifi, 36823ms not connected)
+// Monkey finished

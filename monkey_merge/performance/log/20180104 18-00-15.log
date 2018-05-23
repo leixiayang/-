@@ -1,0 +1,10 @@
+180104 18:00:15 DEBUG | connected devices:MAY9X17525W00751	device
+--[base.py:94]
+180104 18:00:15 DEBUG | split connect devices id: ['MAY9X17525W00751\tdevice\r', '']--[base.py:101]
+180104 18:00:15 DEBUG | get device: MAY9X17525W00751	device--[base.py:105]
+180104 18:00:15 DEBUG | got devices id: ['MAY9X17525W00751']--[base.py:108]
+180104 18:00:15 DEBUG | 'DLI-AL10
+'--[base.py:117]
+180104 18:00:15 DEBUG | DLI-AL10--[base.py:124]
+180104 18:00:15 DEBUG | get the device info: {'DLI-AL10': 'MAY9X17525W00751'}--[base.py:130]
+180104 18:00:15 DEBUG | This system is Windows--[monkey_stop.py:71]

@@ -1,0 +1,209 @@
+:Monkey: seed=735 count=400
+:AllowPackage: com.hhly.community.test
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 31.666668%
+//   1: 21.11111%
+//   2: 4.2222223%
+//   3: -0.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: -0.0%
+//   7: 31.666668%
+//   8: 5.0%
+//   9: 4.2222223%
+//   10: 2.1111112%
+//   11: -0.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(796.0,1787.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(794.89044,1786.6123)
+    // Injection Failed
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.main.MainActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+    // activityResuming(com.hhly.community.test)
+:Sending Touch (ACTION_DOWN): 0:(285.0,129.0)
+:Sending Touch (ACTION_UP): 0:(307.778,49.044495)
+:Sending Touch (ACTION_DOWN): 0:(726.0,1452.0)
+:Sending Touch (ACTION_UP): 0:(735.4707,1448.6366)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(618.0,501.0)
+:Sending Touch (ACTION_UP): 0:(631.70764,504.86765)
+:Sending Touch (ACTION_DOWN): 0:(985.0,501.0)
+:Sending Touch (ACTION_UP): 0:(1010.195,519.6001)
+:Sending Touch (ACTION_DOWN): 0:(6.0,1134.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1139.7725)
+:Sending Touch (ACTION_DOWN): 0:(742.0,1319.0)
+:Sending Touch (ACTION_UP): 0:(746.09796,1315.5038)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(442.0,332.0)
+:Sending Touch (ACTION_UP): 0:(450.1058,302.66003)
+:Sending Touch (ACTION_DOWN): 0:(712.0,1265.0)
+:Sending Touch (ACTION_UP): 0:(708.4836,1262.8861)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(932.0,824.0)
+:Sending Touch (ACTION_UP): 0:(941.2912,822.4667)
+:Sending Touch (ACTION_DOWN): 0:(893.0,1397.0)
+:Sending Touch (ACTION_UP): 0:(880.1133,1388.7998)
+:Sending Touch (ACTION_DOWN): 0:(704.0,1812.0)
+:Sending Touch (ACTION_UP): 0:(704.41254,1800.5087)
+:Sending Touch (ACTION_DOWN): 0:(195.0,1461.0)
+:Sending Touch (ACTION_UP): 0:(243.73845,1553.2501)
+:Sending Touch (ACTION_DOWN): 0:(299.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(299.02972,1124.8866)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,715.0)
+:Sending Touch (ACTION_UP): 0:(1021.6665,721.43677)
+:Sending Touch (ACTION_DOWN): 0:(311.0,1886.0)
+:Sending Touch (ACTION_UP): 0:(316.28973,1888.3689)
+:Sending Touch (ACTION_DOWN): 0:(728.0,1107.0)
+:Sending Touch (ACTION_UP): 0:(754.3013,1019.384)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(1052.0,482.0)
+:Sending Touch (ACTION_UP): 0:(1053.1229,492.56403)
+:Sending Touch (ACTION_DOWN): 0:(47.0,774.0)
+    //[calendar_time:2018-01-05 14:36:42.993  system_uptime:97405]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(56.444412,774.9807)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,546.0)
+:Sending Touch (ACTION_UP): 0:(1064.0066,552.38727)
+:Sending Touch (ACTION_DOWN): 0:(239.0,1516.0)
+:Sending Touch (ACTION_UP): 0:(239.44098,1517.1007)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(263.0,1128.0)
+:Sending Touch (ACTION_UP): 0:(261.80283,1124.6956)
+:Sending Touch (ACTION_DOWN): 0:(809.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(835.31995,969.3695)
+:Sending Touch (ACTION_DOWN): 0:(975.0,1485.0)
+:Sending Touch (ACTION_UP): 0:(954.30884,1489.7101)
+:Sending Touch (ACTION_DOWN): 0:(821.0,617.0)
+:Sending Touch (ACTION_UP): 0:(825.76044,611.604)
+:Sending Touch (ACTION_DOWN): 0:(82.0,1009.0)
+:Sending Touch (ACTION_UP): 0:(84.5766,998.3326)
+:Sending Touch (ACTION_DOWN): 0:(833.0,653.0)
+:Sending Touch (ACTION_UP): 0:(827.31116,655.9203)
+:Sending Touch (ACTION_DOWN): 0:(1006.0,1242.0)
+:Sending Touch (ACTION_UP): 0:(988.791,1213.1754)
+:Sending Touch (ACTION_DOWN): 0:(699.0,1543.0)
+:Sending Touch (ACTION_UP): 0:(696.40295,1444.6102)
+:Sending Touch (ACTION_DOWN): 0:(337.0,672.0)
+:Sending Touch (ACTION_UP): 0:(338.5676,662.336)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,404.0)
+:Sending Touch (ACTION_UP): 0:(1015.7156,410.97607)
+:Sending Touch (ACTION_DOWN): 0:(110.0,1742.0)
+:Sending Touch (ACTION_UP): 0:(152.86086,1663.8287)
+:Sending Touch (ACTION_DOWN): 0:(78.0,379.0)
+:Sending Touch (ACTION_UP): 0:(90.880356,385.98434)
+:Sending Touch (ACTION_DOWN): 0:(464.0,324.0)
+:Sending Touch (ACTION_UP): 0:(455.98566,333.38284)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.sec.android.app.launcher/.activities.LauncherActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.sec.android.app.launcher
+:Sending Touch (ACTION_DOWN): 0:(136.0,1442.0)
+:Sending Touch (ACTION_UP): 0:(190.58954,1408.715)
+:Sending Touch (ACTION_DOWN): 0:(96.0,161.0)
+:Sending Touch (ACTION_UP): 0:(94.17085,149.68808)
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.login.LoginActivity VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)} } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(267.0,251.0)
+:Sending Touch (ACTION_UP): 0:(286.96664,261.16095)
+:Sending Touch (ACTION_DOWN): 0:(81.0,815.0)
+    //[calendar_time:2018-01-05 14:36:51.268  system_uptime:105679]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(37.678265,787.6177)
+:Sending Touch (ACTION_DOWN): 0:(471.0,338.0)
+:Sending Touch (ACTION_UP): 0:(463.13596,339.97427)
+:Sending Touch (ACTION_DOWN): 0:(636.0,1626.0)
+:Sending Touch (ACTION_UP): 0:(656.1168,1615.4735)
+:Sending Touch (ACTION_DOWN): 0:(79.0,1593.0)
+:Sending Touch (ACTION_UP): 0:(98.859566,1545.5303)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(605.0,334.0)
+:Sending Touch (ACTION_UP): 0:(621.75305,313.37115)
+:Sending Touch (ACTION_DOWN): 0:(175.0,980.0)
+:Sending Touch (ACTION_UP): 0:(139.80708,991.7896)
+:Sending Touch (ACTION_DOWN): 0:(443.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(447.6475,1739.1534)
+:Sending Touch (ACTION_DOWN): 0:(1044.0,1541.0)
+:Sending Touch (ACTION_UP): 0:(1051.281,1541.6605)
+:Sending Touch (ACTION_DOWN): 0:(502.0,1739.0)
+:Sending Touch (ACTION_UP): 0:(495.35855,1740.9955)
+:Sending Touch (ACTION_DOWN): 0:(947.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(941.8609,1635.3209)
+:Sending Touch (ACTION_DOWN): 0:(220.0,28.0)
+:Sending Touch (ACTION_UP): 0:(232.25363,27.962656)
+:Sending Touch (ACTION_DOWN): 0:(973.0,678.0)
+:Sending Touch (ACTION_UP): 0:(958.6166,678.6302)
+:Sending Touch (ACTION_DOWN): 0:(305.0,91.0)
+:Sending Touch (ACTION_UP): 0:(298.79837,96.28812)
+:Sending Touch (ACTION_DOWN): 0:(536.0,201.0)
+:Sending Touch (ACTION_UP): 0:(546.158,153.37117)
+:Sending Touch (ACTION_DOWN): 0:(287.0,709.0)
+:Sending Touch (ACTION_UP): 0:(299.54395,714.6218)
+:Sending Touch (ACTION_DOWN): 0:(148.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(159.91534,1718.8998)
+:Sending Touch (ACTION_DOWN): 0:(483.0,1360.0)
+:Sending Touch (ACTION_UP): 0:(412.28772,1409.1686)
+:Sending Touch (ACTION_DOWN): 0:(945.0,77.0)
+:Sending Touch (ACTION_UP): 0:(961.2511,77.5705)
+:Sending Touch (ACTION_DOWN): 0:(129.0,587.0)
+:Sending Touch (ACTION_UP): 0:(133.9225,593.5289)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,1059.0)
+:Sending Touch (ACTION_UP): 0:(1059.7681,1071.6902)
+:Sending Touch (ACTION_DOWN): 0:(480.0,345.0)
+:Sending Touch (ACTION_UP): 0:(486.25986,309.8495)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(397.0,653.0)
+    //[calendar_time:2018-01-05 14:36:59.798  system_uptime:114591]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(291.50403,658.4599)
+:Sending Touch (ACTION_DOWN): 0:(784.0,218.0)
+:Sending Touch (ACTION_UP): 0:(827.705,239.32098)
+:Sending Touch (ACTION_DOWN): 0:(871.0,879.0)
+:Sending Touch (ACTION_UP): 0:(862.4644,887.0946)
+:Sending Touch (ACTION_DOWN): 0:(999.0,1578.0)
+:Sending Touch (ACTION_UP): 0:(996.6475,1592.5945)
+:Sending Touch (ACTION_DOWN): 0:(543.0,1917.0)
+:Sending Touch (ACTION_UP): 0:(545.80176,1920.0)
+:Sending Touch (ACTION_DOWN): 0:(516.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(515.057,1360.1841)
+:Sending Touch (ACTION_DOWN): 0:(581.0,14.0)
+:Sending Touch (ACTION_UP): 0:(597.2128,0.0)
+:Sending Touch (ACTION_DOWN): 0:(702.0,95.0)
+:Sending Touch (ACTION_UP): 0:(701.807,172.7331)
+:Sending Touch (ACTION_DOWN): 0:(747.0,713.0)
+:Sending Touch (ACTION_UP): 0:(742.1196,718.0737)
+:Sending Touch (ACTION_DOWN): 0:(844.0,41.0)
+:Sending Touch (ACTION_UP): 0:(844.0758,20.278223)
+:Sending Touch (ACTION_DOWN): 0:(402.0,314.0)
+:Sending Touch (ACTION_UP): 0:(459.32916,276.88766)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(815.0,1130.0)
+:Sending Touch (ACTION_UP): 0:(810.04456,1132.5869)
+:Sending Touch (ACTION_DOWN): 0:(189.0,983.0)
+:Sending Touch (ACTION_UP): 0:(172.74657,982.2537)
+:Sending Touch (ACTION_DOWN): 0:(546.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(557.59033,1181.5673)
+:Sending Touch (ACTION_DOWN): 0:(606.0,1565.0)
+:Sending Touch (ACTION_UP): 0:(539.7871,1527.0306)
+:Sending Touch (ACTION_DOWN): 0:(54.0,1820.0)
+:Sending Touch (ACTION_UP): 0:(228.10028,1761.6989)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(1055.6547,1027.5946)
+:Sending Touch (ACTION_DOWN): 0:(152.0,1590.0)
+Events injected: 400
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=2 trackballs=0 flips=4 rotations=0
+## Network stats: elapsed time=38990ms (0ms mobile, 0ms wifi, 38990ms not connected)
+// Monkey finished

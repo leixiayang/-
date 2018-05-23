@@ -1,0 +1,663 @@
+:Monkey: seed=6 count=400
+:AllowPackage: com.hhly.community.test
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Selecting main activities from category android.intent.category.LAUNCHER
+//   - NOT USING main activity com.android.gallery3d.vivo.GalleryTabActivity (from package com.vivo.gallery)
+//   - NOT USING main activity com.android.contacts.DialtactsContactsEntryActivity (from package com.android.contacts)
+//   - NOT USING main activity com.android.dialer.TwelveKeyDialer (from package com.android.dialer)
+//   - NOT USING main activity com.android.email.activity.Welcome (from package com.android.email)
+//   - NOT USING main activity com.android.mms.ui.ConversationList (from package com.android.mms)
+//   - NOT USING main activity com.android.settings.Settings (from package com.android.settings)
+//   - NOT USING main activity com.android.bbksoundrecorder.SoundRecorder (from package com.android.bbksoundrecorder)
+//   - NOT USING main activity com.android.VideoPlayer.VideoPlayer (from package com.android.VideoPlayer)
+//   - NOT USING main activity com.bbk.calendar.MainActivity (from package com.bbk.calendar)
+//   - NOT USING main activity com.android.camera.CameraActivity (from package com.android.camera)
+//   - NOT USING main activity com.bbk.theme.Theme (from package com.bbk.theme)
+//   - NOT USING main activity com.android.bbkmusic.WidgetToTrackActivity (from package com.android.bbkmusic)
+//   - NOT USING main activity com.baidu.baidumaps.WelcomeScreen (from package com.baidu.BaiduMap)
+//   - NOT USING main activity com.android.bbkcalculator.Calculator (from package com.android.bbkcalculator)
+//   - NOT USING main activity com.vivo.FMRadio.FMRadioActivity (from package com.vivo.FMRadio)
+//   - NOT USING main activity com.android.filemanager.FileManagerActivity (from package com.android.filemanager)
+//   - NOT USING main activity com.android.notes.Notes (from package com.android.notes)
+//   - NOT USING main activity com.android.BBKClock.Timer (from package com.android.BBKClock)
+//   - NOT USING main activity com.vivo.weather.WeatherMain (from package com.vivo.weather)
+//   - NOT USING main activity com.vivo.compass.CalibrationActivity (from package com.vivo.compass)
+//   - NOT USING main activity com.vivo.Tips.MainActivity (from package com.vivo.Tips)
+//   - NOT USING main activity com.bbk.cloud.activities.BBKCloudHomeScreen (from package com.bbk.cloud)
+//   - NOT USING main activity com.vivo.game.ui.LogoActivity (from package com.vivo.game)
+//   - NOT USING main activity com.vivo.space.ui.LogoActivity (from package com.vivo.space)
+//   - NOT USING main activity com.vivo.browser.BrowserActivity (from package com.vivo.browser)
+//   - NOT USING main activity com.bbk.appstore.ui.AppStore (from package com.bbk.appstore)
+//   - NOT USING main activity com.qq.reader.activity.SplashActivity (from package com.vivo.qreader)
+//   - NOT USING main activity com.iqoo.secure.MainGuideActivity (from package com.iqoo.secure)
+//   - NOT USING main activity sogou.mobile.explorer.NoDisplayActivity (from package sogou.mobile.explorer)
+//   - NOT USING main activity com.wuba.activity.launch.LaunchActivity (from package com.wuba)
+//   - NOT USING main activity com.android.bbk.lockscreen3.LockScreenActivity (from package com.android.bbk.lockscreen3)
+//   - NOT USING main activity com.tencent.qqlive.ona.activity.WelcomeActivity (from package com.tencent.qqlive)
+//   - NOT USING main activity com.qiyi.video.WelcomeActivity (from package com.qiyi.video)
+//   - NOT USING main activity com.bbk.iqoo.feedback.activities.UserFeedBackActivity (from package com.bbk.iqoo.feedback)
+//   - NOT USING main activity com.tencent.mm.ui.LauncherUI (from package com.tencent.mm)
+//   + Using main activity com.hhly.community.ui.welcome.WelcomeActivity (from package com.hhly.community.test)
+//   - NOT USING main activity com.taobao.tao.welcome.Welcome (from package com.taobao.taobao)
+//   - NOT USING main activity com.sankuai.meituan.activity.Welcome (from package com.sankuai.meituan)
+//   - NOT USING main activity com.hhly.community.ui.welcome.WelcomeActivity (from package com.hhly.community)
+//   - NOT USING main activity com.ss.android.article.news.activity.SplashBadgeActivity (from package com.ss.android.article.news)
+//   - NOT USING main activity com.vivo.easyshare.activity.SplashScreenActivity (from package com.vivo.easyshare)
+//   - NOT USING main activity com.sinaapp.qwwpoo.fastscanner.HistoryActivity (from package com.sinaapp.qwwpoo.fastscanner)
+//   - NOT USING main activity com.jm.android.jumei.home.activity.StartActivity (from package com.jm.android.jumei)
+//   - NOT USING main activity com.tencent.mobileqq.activity.SplashActivity (from package com.tencent.mobileqq)
+//   - NOT USING main activity com.eg.android.AlipayGphone.AlipayLogin (from package com.eg.android.AlipayGphone)
+//   - NOT USING main activity com.UCMobile.main.UCMobile (from package com.UCMobile)
+//   - NOT USING main activity com.mqunar.splash.SplashActivity (from package com.Qunar)
+// Selecting main activities from category android.intent.category.MONKEY
+//   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+//   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+//   - NOT USING main activity com.bbk.launcher2.Launcher (from package com.bbk.launcher2)
+//   - NOT USING main activity com.bbk.scene.launcher.theme.SceneLauncherThemeMainActivity (from package com.bbk.scene.launcher.theme)
+//   - NOT USING main activity com.iqoo.engineermode.EngineerMode (from package com.iqoo.engineermode)
+//   - NOT USING main activity com.android.systemui.vivo.common.monkeytest.MonkeyTestActivity (from package com.android.systemui)
+// Seeded: 6
+// Event percentages:
+//   0: 31.666668%
+//   1: 21.11111%
+//   2: 4.2222223%
+//   3: -0.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: -0.0%
+//   7: 31.666668%
+//   8: 5.0%
+//   9: 4.2222223%
+//   10: 2.1111112%
+//   11: -0.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(386.0,818.0)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(388.79025,822.45135)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(397.68588,831.39465)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(398.4184,838.53625)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(408.2339,850.3229)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(409.97598,850.5232)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(421.08005,862.8106)
+    // Injection Failed
+:Sending Touch (ACTION_MOVE): 0:(432.17548,869.65155)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(439.33414,877.10815)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(52.0,537.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(57.339012,523.9979)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(233.0,373.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(229.941,369.1154)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.main.MainActivity } in package com.hhly.community.test
+    // activityResuming(com.hhly.community.test)
+:Sending Touch (ACTION_DOWN): 0:(31.0,992.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(27.302214,997.3297)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(189.0,1255.0)
+:Sending Touch (ACTION_MOVE): 0:(188.92403,1249.358)
+:Sending Touch (ACTION_MOVE): 0:(187.69867,1243.7406)
+:Sending Touch (ACTION_MOVE): 0:(186.6931,1242.6)
+:Sending Touch (ACTION_MOVE): 0:(184.26666,1237.4576)
+:Sending Touch (ACTION_MOVE): 0:(183.1179,1232.7611)
+:Sending Touch (ACTION_UP): 0:(182.44716,1223.2472)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+:Sending Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(528.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(530.1154,1077.9498)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.product.ProductDetailActivity } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(476.0,261.0)
+:Sending Touch (ACTION_UP): 0:(487.7851,252.24753)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(347.0,377.0)
+:Sending Touch (ACTION_UP): 0:(346.70117,387.64862)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(281.0,958.0)
+:Sending Touch (ACTION_MOVE): 0:(286.4992,972.7425)
+:Sending Touch (ACTION_MOVE): 0:(291.23303,984.06177)
+:Sending Touch (ACTION_MOVE): 0:(295.05014,987.0828)
+:Sending Touch (ACTION_MOVE): 0:(297.0873,1002.2692)
+:Sending Touch (ACTION_MOVE): 0:(301.66946,1020.6175)
+:Sending Touch (ACTION_MOVE): 0:(304.39804,1033.5356)
+:Sending Touch (ACTION_UP): 0:(308.65338,1036.5686)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(444.0,254.0)
+:Sending Touch (ACTION_UP): 0:(446.1531,253.64522)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 3    // KEYCODE_HOME
+:Sending Key (ACTION_UP): 3    // KEYCODE_HOME
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.bbk.launcher2/.Launcher } in package com.bbk.launcher2
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 4    // KEYCODE_BACK
+:Sending Key (ACTION_UP): 4    // KEYCODE_BACK
+Sleeping for 300 milliseconds
+    // activityResuming(com.hhly.community.test)
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(284.0,444.0)
+:Sending Touch (ACTION_UP): 0:(282.00577,448.6958)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(208.0,850.0)
+:Sending Touch (ACTION_UP): 0:(198.36656,849.2551)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.web.WebActivityActivity } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(666.0,32.0)
+:Sending Touch (ACTION_UP): 0:(658.02637,30.372293)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(316.0,938.0)
+:Sending Touch (ACTION_UP): 0:(331.27548,937.2064)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 4    // KEYCODE_BACK
+:Sending Key (ACTION_UP): 4    // KEYCODE_BACK
+Sleeping for 300 milliseconds
+    // activityResuming(com.hhly.community.test)
+:Sending Touch (ACTION_DOWN): 0:(359.0,390.0)
+:Sending Touch (ACTION_UP): 0:(359.06342,388.43716)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(208.0,863.0)
+:Sending Touch (ACTION_MOVE): 0:(206.07692,883.805)
+:Sending Touch (ACTION_MOVE): 0:(202.30338,905.2118)
+:Sending Touch (ACTION_MOVE): 0:(198.94458,924.2807)
+:Sending Touch (ACTION_MOVE): 0:(194.80086,939.9113)
+:Sending Touch (ACTION_MOVE): 0:(189.85681,960.7079)
+:Sending Touch (ACTION_MOVE): 0:(187.26866,968.4174)
+:Sending Touch (ACTION_UP): 0:(182.75172,976.0027)
+Sleeping for 300 milliseconds
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(552.0,623.0)
+:Sending Touch (ACTION_UP): 0:(548.33923,619.8961)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.web.WebActivityActivity } in package com.hhly.community.test
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(252.0,914.0)
+:Sending Touch (ACTION_UP): 0:(254.03242,917.13214)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(164.0,456.0)
+:Sending Touch (ACTION_MOVE): 0:(162.94946,463.07553)
+:Sending Touch (ACTION_MOVE): 0:(161.1736,465.97598)
+:Sending Touch (ACTION_MOVE): 0:(160.86536,467.64108)
+:Sending Touch (ACTION_MOVE): 0:(160.32886,472.63516)
+:Sending Touch (ACTION_MOVE): 0:(159.36047,474.48184)
+:Sending Touch (ACTION_MOVE): 0:(157.58183,480.4206)
+:Sending Touch (ACTION_MOVE): 0:(156.78752,481.84763)
+:Sending Touch (ACTION_MOVE): 0:(155.82271,491.5272)
+:Sending Touch (ACTION_UP): 0:(154.74599,497.68796)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(474.0,332.0)
+:Sending Touch (ACTION_UP): 0:(473.51083,330.81375)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(323.0,1212.0)
+:Sending Touch (ACTION_MOVE): 0:(321.59683,1215.9705)
+:Sending Touch (ACTION_MOVE): 0:(314.91,1226.2302)
+    //[calendar_time:2018-01-29 17:00:32.611  system_uptime:368586]
+    // Sending event #100
+:Sending Touch (ACTION_MOVE): 0:(313.2887,1237.0292)
+:Sending Touch (ACTION_UP): 0:(312.56525,1237.2383)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(415.0,872.0)
+:Sending Touch (ACTION_MOVE): 0:(430.91116,864.0441)
+:Sending Touch (ACTION_MOVE): 0:(447.7484,859.3309)
+:Sending Touch (ACTION_MOVE): 0:(450.27866,852.7737)
+:Sending Touch (ACTION_MOVE): 0:(465.37827,850.29095)
+:Sending Touch (ACTION_UP): 0:(472.02982,848.1086)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(692.0,760.0)
+:Sending Touch (ACTION_UP): 0:(689.3498,751.21594)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(630.0,547.0)
+:Sending Touch (ACTION_UP): 0:(633.6976,548.4689)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.web.WebCommonInterfaceActivity } in package com.hhly.community.test
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(231.0,645.0)
+:Sending Touch (ACTION_UP): 0:(214.00172,657.6359)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(705.0,259.0)
+:Sending Touch (ACTION_UP): 0:(713.01526,256.09036)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 4    // KEYCODE_BACK
+:Sending Key (ACTION_UP): 4    // KEYCODE_BACK
+Sleeping for 300 milliseconds
+    // activityResuming(com.hhly.community.test)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(92.0,1088.0)
+:Sending Touch (ACTION_MOVE): 0:(111.51581,1088.0123)
+:Sending Touch (ACTION_MOVE): 0:(114.21286,1088.5078)
+:Sending Touch (ACTION_MOVE): 0:(133.30655,1088.9081)
+:Sending Touch (ACTION_UP): 0:(136.85742,1089.1963)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(307.0,1211.0)
+:Sending Touch (ACTION_UP): 0:(321.99023,1204.6288)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.product.ProductDetailActivity } in package com.hhly.community.test
+:Sending Touch (ACTION_DOWN): 0:(139.0,4.0)
+:Sending Touch (ACTION_MOVE): 0:(155.67264,4.0604734)
+:Sending Touch (ACTION_MOVE): 0:(167.45389,4.4228425)
+:Sending Touch (ACTION_MOVE): 0:(175.3375,7.1318927)
+:Sending Touch (ACTION_MOVE): 0:(185.90636,9.729607)
+:Sending Touch (ACTION_MOVE): 0:(200.83542,14.3951025)
+:Sending Touch (ACTION_MOVE): 0:(209.30368,15.506758)
+:Sending Touch (ACTION_MOVE): 0:(215.10725,21.660389)
+:Sending Touch (ACTION_MOVE): 0:(226.54413,23.096815)
+:Sending Touch (ACTION_UP): 0:(235.8694,26.243656)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(711.0,1237.0)
+:Sending Touch (ACTION_MOVE): 0:(711.434,1243.3801)
+:Sending Touch (ACTION_MOVE): 0:(715.6101,1250.7279)
+:Sending Touch (ACTION_MOVE): 0:(720.0,1261.581)
+:Sending Touch (ACTION_MOVE): 0:(720.0,1265.7783)
+:Sending Touch (ACTION_MOVE): 0:(720.0,1275.5848)
+:Sending Touch (ACTION_UP): 0:(720.0,1280.0)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(30.0,99.0)
+:Sending Touch (ACTION_MOVE): 0:(30.041405,105.759056)
+:Sending Touch (ACTION_MOVE): 0:(30.073746,107.962715)
+:Sending Touch (ACTION_MOVE): 0:(30.387096,119.38415)
+:Sending Touch (ACTION_MOVE): 0:(30.873894,130.18164)
+:Sending Touch (ACTION_MOVE): 0:(31.028437,134.1187)
+:Sending Touch (ACTION_MOVE): 0:(31.536201,134.85246)
+:Sending Touch (ACTION_MOVE): 0:(31.61337,149.89507)
+:Sending Touch (ACTION_MOVE): 0:(31.805931,152.7569)
+:Sending Touch (ACTION_MOVE): 0:(31.987965,159.79095)
+:Sending Touch (ACTION_UP): 0:(32.39327,172.37396)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(309.0,148.0)
+:Sending Touch (ACTION_UP): 0:(322.80835,150.2927)
+Sleeping for 300 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(457.0,598.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(443.76938,596.8858) 1:(381.0,276.0)
+:Sending Touch (ACTION_MOVE): 0:(443.43942,591.7377) 1:(369.3272,277.63345)
+:Sending Touch (ACTION_MOVE): 0:(431.61557,589.64185) 1:(359.4031,295.84338)
+:Sending Touch (ACTION_MOVE): 0:(417.02307,589.0495) 1:(349.23453,314.39832)
+:Sending Touch (ACTION_MOVE): 0:(400.80365,584.04004) 1:(330.68344,318.4516)
+:Sending Touch (ACTION_MOVE): 0:(399.04373,579.1898) 1:(315.51648,325.2807)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(393.78336,575.91187) 1:(315.33664,338.30383)
+:Sending Touch (ACTION_UP): 0:(385.48245,573.19543)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(427.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(425.92285,1167.1725)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(136.0,577.0)
+:Sending Touch (ACTION_UP): 0:(147.62811,592.63184)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(305.0,878.0)
+:Sending Touch (ACTION_MOVE): 0:(300.0981,870.13464)
+:Sending Touch (ACTION_MOVE): 0:(293.31964,866.87634)
+:Sending Touch (ACTION_MOVE): 0:(288.63892,857.4094)
+    //[calendar_time:2018-01-29 17:00:42.636  system_uptime:378611]
+    // Sending event #200
+:Sending Touch (ACTION_MOVE): 0:(286.82816,844.8914)
+:Sending Touch (ACTION_MOVE): 0:(285.15845,834.33923)
+:Sending Touch (ACTION_MOVE): 0:(277.9205,830.4263)
+:Sending Touch (ACTION_MOVE): 0:(275.15964,825.39734)
+:Sending Touch (ACTION_MOVE): 0:(274.4256,824.75165)
+:Sending Touch (ACTION_MOVE): 0:(268.9707,824.67224)
+:Sending Touch (ACTION_UP): 0:(261.42145,814.19226)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(655.0,1260.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(655.04425,1256.2727) 1:(77.0,111.0)
+:Sending Touch (ACTION_MOVE): 0:(655.0575,1247.7666) 1:(66.321594,108.772964)
+:Sending Touch (ACTION_MOVE): 0:(655.1108,1241.6884) 1:(62.673553,100.23011)
+:Sending Touch (ACTION_MOVE): 0:(655.1287,1238.1346) 1:(59.17565,80.85053)
+:Sending Touch (ACTION_MOVE): 0:(655.161,1232.7911) 1:(51.722614,78.19948)
+:Sending Touch (ACTION_MOVE): 0:(655.2573,1227.4879) 1:(42.45018,62.228256)
+:Sending Touch (ACTION_MOVE): 0:(655.3082,1225.8171) 1:(41.336243,47.521088)
+:Sending Touch (ACTION_MOVE): 0:(655.4581,1218.5404) 1:(31.86576,28.185562)
+:Sending Touch (ACTION_MOVE): 0:(655.46765,1215.2388) 1:(20.319408,17.886868)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(655.5134,1211.5743) 1:(11.449189,1.4411926)
+:Sending Touch (ACTION_UP): 0:(655.6391,1207.2887)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(533.0,498.0)
+:Sending Touch (ACTION_UP): 0:(530.04425,502.16245)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(552.0,1121.0)
+:Sending Touch (ACTION_UP): 0:(548.0737,1117.9785)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(31.0,406.0)
+:Sending Touch (ACTION_UP): 0:(27.200102,415.50604)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+:Sending Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(152.0,524.0)
+:Sending Touch (ACTION_UP): 0:(161.90858,524.7626)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(626.0,576.0)
+:Sending Touch (ACTION_UP): 0:(626.0822,563.14154)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(285.0,887.0)
+:Sending Touch (ACTION_UP): 0:(279.9815,888.11273)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(36.0,608.0)
+:Sending Touch (ACTION_UP): 0:(33.12089,624.8512)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+    // activityResuming(com.hhly.community.test)
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(199.0,947.0)
+:Sending Touch (ACTION_MOVE): 0:(199.34068,946.0549)
+:Sending Touch (ACTION_UP): 0:(203.80043,938.6491)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.product.ProductDetailActivity } in package com.hhly.community.test
+:Sending Key (ACTION_DOWN): 25    // KEYCODE_VOLUME_DOWN
+:Sending Key (ACTION_UP): 25    // KEYCODE_VOLUME_DOWN
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(464.0,1022.0)
+:Sending Touch (ACTION_UP): 0:(468.83063,1021.7381)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(642.0,878.0)
+:Sending Touch (ACTION_UP): 0:(646.447,868.9474)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(452.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(448.74945,1041.8053)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(495.0,195.0)
+:Sending Touch (ACTION_UP): 0:(478.39178,200.42686)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(6.0,2.0)
+:Sending Touch (ACTION_UP): 0:(0.0,4.523082)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(478.0,211.0)
+:Sending Touch (ACTION_MOVE): 0:(489.8965,212.38348)
+:Sending Touch (ACTION_MOVE): 0:(512.0753,214.69249)
+:Sending Touch (ACTION_MOVE): 0:(523.55035,217.50504)
+:Sending Touch (ACTION_MOVE): 0:(546.0845,223.9872)
+:Sending Touch (ACTION_UP): 0:(549.5499,226.02376)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(708.0,104.0)
+:Sending Touch (ACTION_UP): 0:(705.66034,109.06266)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(174.0,790.0)
+:Sending Touch (ACTION_MOVE): 0:(159.20845,790.3924)
+:Sending Touch (ACTION_MOVE): 0:(145.79056,797.0876)
+:Sending Touch (ACTION_MOVE): 0:(143.97954,803.1049)
+:Sending Touch (ACTION_MOVE): 0:(131.24619,811.4154)
+:Sending Touch (ACTION_MOVE): 0:(119.839714,819.59283)
+:Sending Touch (ACTION_MOVE): 0:(112.39909,823.7915)
+:Sending Touch (ACTION_MOVE): 0:(107.819275,824.06433)
+:Sending Touch (ACTION_UP): 0:(103.59098,826.0173)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(310.0,197.0)
+:Sending Touch (ACTION_MOVE): 0:(299.75098,195.89946)
+:Sending Touch (ACTION_MOVE): 0:(299.14948,195.89314)
+:Sending Touch (ACTION_UP): 0:(296.1329,194.26741)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(8.0,1160.0)
+:Sending Touch (ACTION_MOVE): 0:(13.916396,1163.7456)
+:Sending Touch (ACTION_MOVE): 0:(20.146051,1168.4817)
+:Sending Touch (ACTION_MOVE): 0:(20.563017,1170.4836)
+:Sending Touch (ACTION_MOVE): 0:(23.768501,1175.167)
+:Sending Touch (ACTION_MOVE): 0:(26.924107,1176.1326)
+:Sending Touch (ACTION_MOVE): 0:(29.62947,1185.6593)
+:Sending Touch (ACTION_MOVE): 0:(30.992315,1188.7383)
+:Sending Touch (ACTION_MOVE): 0:(33.98776,1189.2308)
+:Sending Touch (ACTION_MOVE): 0:(36.087685,1196.6207)
+:Sending Touch (ACTION_UP): 0:(39.97674,1202.7308)
+    //[calendar_time:2018-01-29 17:00:52.507  system_uptime:388482]
+    // Sending event #300
+Sleeping for 300 milliseconds
+    // activityResuming(com.hhly.community.test)
+    //[calendar_time:2018-01-29 17:00:52.812  system_uptime:388786]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(632.0,998.0)
+:Sending Touch (ACTION_UP): 0:(647.4248,993.7867)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(99.0,26.0)
+:Sending Touch (ACTION_UP): 0:(105.76677,16.14035)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(480.0,410.0)
+:Sending Touch (ACTION_UP): 0:(480.10464,415.12363)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.web.WebCommonInterfaceActivity } in package com.hhly.community.test
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(65.0,53.0)
+:Sending Touch (ACTION_UP): 0:(54.741398,52.252834)
+Sleeping for 300 milliseconds
+    // activityResuming(com.hhly.community.test)
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(699.0,744.0)
+:Sending Touch (ACTION_UP): 0:(716.5746,752.741)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(390.0,1174.0)
+:Sending Touch (ACTION_MOVE): 0:(388.46017,1174.7626)
+:Sending Touch (ACTION_MOVE): 0:(386.71875,1177.9314)
+:Sending Touch (ACTION_MOVE): 0:(384.31888,1180.0052)
+:Sending Touch (ACTION_MOVE): 0:(380.3073,1184.0009)
+:Sending Touch (ACTION_MOVE): 0:(375.1967,1188.1952)
+:Sending Touch (ACTION_UP): 0:(372.7457,1189.4238)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(315.0,165.0)
+:Sending Touch (ACTION_MOVE): 0:(317.23816,169.32668)
+:Sending Touch (ACTION_MOVE): 0:(321.11075,180.3454)
+:Sending Touch (ACTION_MOVE): 0:(330.08282,186.09885)
+:Sending Touch (ACTION_MOVE): 0:(340.5354,186.42558)
+:Sending Touch (ACTION_MOVE): 0:(344.69327,188.01613)
+:Sending Touch (ACTION_MOVE): 0:(355.2409,189.12831)
+:Sending Touch (ACTION_UP): 0:(359.6975,197.24452)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(430.0,453.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(422.00992,461.82867) 1:(280.0,17.0)
+:Sending Touch (ACTION_MOVE): 0:(415.70917,469.73782) 1:(279.38077,3.1010418)
+:Sending Touch (ACTION_MOVE): 0:(413.90262,470.3317) 1:(278.18195,0.0)
+:Sending Touch (ACTION_MOVE): 0:(413.19116,478.7878) 1:(277.61795,0.0)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(400.86703,492.52588) 1:(276.77896,0.0)
+:Sending Touch (ACTION_UP): 0:(388.00833,500.528)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(433.0,653.0)
+:Sending Touch (ACTION_UP): 0:(422.97766,650.2692)
+Sleeping for 300 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(591.0,471.0)
+:Sending Touch (ACTION_MOVE): 0:(574.5881,470.6527)
+:Sending Touch (ACTION_MOVE): 0:(560.58264,456.72833)
+:Sending Touch (ACTION_MOVE): 0:(551.43884,442.4479)
+:Sending Touch (ACTION_MOVE): 0:(548.57544,439.1847)
+:Sending Touch (ACTION_MOVE): 0:(545.69055,434.28174)
+:Sending Touch (ACTION_MOVE): 0:(535.4734,415.19327)
+:Sending Touch (ACTION_UP): 0:(533.15594,396.24118)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.hhly.community.test/com.hhly.community.ui.welcome.WelcomeActivity } in package com.hhly.community.test
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(393.0,60.0)
+:Sending Touch (ACTION_MOVE): 0:(391.4377,55.620323)
+:Sending Touch (ACTION_MOVE): 0:(390.29785,51.86696)
+:Sending Touch (ACTION_MOVE): 0:(388.9075,51.629578)
+:Sending Touch (ACTION_UP): 0:(386.8961,50.227646)
+Sleeping for 300 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(364.0,581.0)
+:Sending Touch (ACTION_MOVE): 0:(367.64407,595.8568)
+:Sending Touch (ACTION_MOVE): 0:(370.68268,605.026)
+:Sending Touch (ACTION_MOVE): 0:(371.01132,610.018)
+:Sending Touch (ACTION_UP): 0:(373.2888,630.01605)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(187.0,437.0)
+:Sending Touch (ACTION_UP): 0:(202.71204,429.46942)
+Sleeping for 300 milliseconds
+    // Rejecting start of Intent { cmp=com.bbk.updater/.ui.UpdateActivity } in package com.bbk.updater
+:Sending Touch (ACTION_DOWN): 0:(364.0,145.0)
+:Sending Touch (ACTION_MOVE): 0:(376.14316,164.24155)
+:Sending Touch (ACTION_MOVE): 0:(382.16602,175.04752)
+:Sending Touch (ACTION_MOVE): 0:(388.6296,185.31706)
+:Sending Touch (ACTION_MOVE): 0:(402.31973,206.32928)
+:Sending Touch (ACTION_UP): 0:(403.67102,224.91385)
+Sleeping for 300 milliseconds
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(8.0,369.0)
+:Sending Touch (ACTION_UP): 0:(18.845879,369.0964)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.hhly.community.test/com.hhly.community.ui.web.WebCommonInterfaceActivity } in package com.hhly.community.test
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(312.0,461.0)
+:Sending Touch (ACTION_MOVE): 0:(322.78873,483.27713)
+:Sending Touch (ACTION_MOVE): 0:(341.09933,488.61545)
+:Sending Touch (ACTION_MOVE): 0:(362.70874,510.15958)
+:Sending Touch (ACTION_MOVE): 0:(373.3389,518.7228)
+:Sending Touch (ACTION_MOVE): 0:(384.41458,533.1797)
+:Sending Touch (ACTION_MOVE): 0:(398.03714,539.1203)
+:Sending Touch (ACTION_MOVE): 0:(418.71783,549.43726)
+:Sending Touch (ACTION_UP): 0:(437.65387,566.4699)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(183.0,778.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(188.34116,765.6622) 1:(665.0,90.0)
+Events injected: 400
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=15 trackballs=0 flips=3 rotations=0
+## Network stats: elapsed time=41216ms (0ms mobile, 0ms wifi, 41216ms not connected)
+// Monkey finished
