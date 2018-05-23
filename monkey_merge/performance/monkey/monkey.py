@@ -171,12 +171,6 @@ def main(device_id, device_model):
         time.sleep(1)
         capture_screen(device_id, log_file_name, log_file_name_with_location, monkey_duration)
         time.sleep(1)
-        # 由于报告中已经抓取了异常，因此邮件不需要重复，屏蔽发送邮件
-        # mail_content = deal_with_log(log_file_name_with_location, monkey_duration)
-        # mail = SendMail()
-        # if mail_content == '':
-        #     mail_content = 'No crash happened'
-        # mail.send_mail(Config.mail_to_list, mail_content)
         reboot_device(device_id, device_model)
     except Exception:
         traceback.print_exc()
@@ -192,26 +186,6 @@ def get_apk_name():
             apk_name = i
     return apk_name
 
-# def reinstall():
-#     # uninstall & install app
-#     location_apk=os.path.join(current_location, apk_name)
-#     print location_apk
-
-#     print '\runinstalling...'
-#     output = subprocess.check_output(adb + '-s ' + device_id + ' uninstall ' + package_name, shell=True)
-#     print output
-#     print '\rinstalling...'
-#     output = subprocess.check_output(adb + '-s ' + device_id + ' install ' + location_apk, shell=True)
-#     print output
-
-#     print 'reboot device...'
-#     output = subprocess.check_output(adb + '-s ' + device_id + ' reboot', shell=True)
-#     count_time = 0
-#     for i in range(60):
-#       time.sleep(1)
-#       count_time += 1
-#       print count_time,
-#     print
 
 
 def generate_log_file_name(device_model):
@@ -241,7 +215,7 @@ def start_monkey(adb, device_id, device_model, monkey_seed, monkey_parameters, p
     monkey_start_time = time.time()
     cmd_monkey = "%s -s %s shell monkey -s %s -p %s %s > %s.txt" % (
         adb, device_id, monkey_seed, package_name, monkey_parameters, log_file_name_with_location)
-    # cmd_monkey = "%s -s %s shell monkey -s %s -p %s --pct-touch 10 --pct-motion 10 --pct-appswitch 80 -v 400000000 > %s.txt" %(adb, device_id, monkey_seed, package_name, log_file_name_with_location)
+
     if platform.system() == "Darwin":
         #Darwin就是mac系统的名称
         logging.info("Monkey cmd: %s" % cmd_monkey)

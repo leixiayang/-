@@ -13,17 +13,6 @@ flow = [[], []]
 fps = []
 battery = []
 
-# def get_cpu(device_id,pkg_name):
-#     # cmd = "adb shell dumpsys cpuinfo | findstr " + pkg_name
-#     cmd = "adb -s %s shell dumpsys cpuinfo | findstr %s" %(device_id, pkg_name)
-#     output = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE).stdout.readlines()
-#     for info in output:
-#         if info.split()[1].decode().split("/")[1][:-1] == pkg_name:  # 只有包名相等
-#             # print("cpu=" + info.split()[2].decode())
-#             cpu.append(float(info.split()[2].decode().split("%")[0]))
-#             print("----cpu-----")
-#             print(cpu)
-#             return cpu
 
 # 修改如下
 def get_cpu(device_id, pkg_name):
@@ -135,7 +124,5 @@ def get_flow(device_id, pkg_name, type):
         return flow
 
 if __name__ == '__main__':
-    # pid = get_pid("com.jianshu.haruki")
     get_cpu("com.hhly.community.test")
-    # print(get_flow("com.hhly.community.test", "gprs"))
-    # print(get_flow("com.hhly.community.test", "gprs"))
+

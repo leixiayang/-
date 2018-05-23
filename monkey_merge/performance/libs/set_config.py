@@ -3,8 +3,6 @@
 
 import os
 import sys
-import logging
-import traceback
 import configparser
 import imp
 
