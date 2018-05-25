@@ -3,7 +3,6 @@
 import os
 import re
 import subprocess
-import math
 class getPhone():
     def __init__(self, cmd_log, device_id) :
         self.cmd_log = cmd_log
@@ -59,13 +58,11 @@ class getPhone():
 
     # 得到手机分辨率
     def get_app_pix(self, device_id):
-        # result = os.popen("adb -s s% shell wm size" % device_id, "r")
         result = subprocess.Popen("adb -s %s shell wm size" % device_id,  shell=True, stdout=subprocess.PIPE,
                                    stderr=subprocess.PIPE).stdout.readlines()
         print("result:",result[0])
         return result[0].decode().split()[-1]
         print(result[0].decode().split()[-1])
-        # print(result.readline().split("Physical size:")[1])
 
     # 获取内核
     def get_phone_Kernel(self, device_id):

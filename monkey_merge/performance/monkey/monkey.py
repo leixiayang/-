@@ -2,7 +2,6 @@
 # coding: utf-8
 
 import time
-import subprocess
 import os
 import sys
 import logging
@@ -27,7 +26,6 @@ if __name__ == '__main__':
     os.chdir(project_dir[0])    # 将项目所在文件夹设置为 wkdir (目录下必须有 __init__.py 文件)
 
 from performance.config.config import Config
-from performance.libs.mail import SendMail
 from performance.monkey.monkey_stop import stop_monkey
 
 wkdir = os.getcwd()
