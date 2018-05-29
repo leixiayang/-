@@ -37,7 +37,7 @@ def set_custom_config(config_file):
         Config.monkey_parameters = monkey_parameters
 
 if __name__ == '__main__':
-    config_file = "./monkey_android/default.conf"
+    config_file = "./monkey_merge/default.conf"
     set_custom_config(config_file)
 
 
